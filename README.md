@@ -17,6 +17,7 @@
 <a href="https://codepen.io/gino23odar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gino23odar" height="30" width="40" /></a>
 <a href="https://instagram.com/ginoodar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ginoodar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gino23odar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gino23odar" height="30" width="40" /></a>
+  <a href="https://replit.com/@gino23odar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="gino23odar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
