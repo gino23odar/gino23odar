@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Reddit Connection](https://www.youtube.com/@redditconnection)
 
-- 🌱 I’m currently learning **Next.js, Tensorflow & Chai**
+- 🌱 I’m currently learning **Next.js, Typescript & React Native**
 
 - 💬 Ask me about **React and Node.js**
 
