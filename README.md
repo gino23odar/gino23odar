@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gino</h1>
-<h3 align="center">A passionate developer from Peru 🇵🇪</h3>
+<h3 align="center">A passionate software developer from Peru 🇵🇪</h3>
 
 - 🔭 I’m currently working on [Reddit Connection](https://www.youtube.com/@redditconnection)
 
