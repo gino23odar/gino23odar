@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Reddit Connection](https://www.youtube.com/@redditconnection)
 
-- 🌱 I’m currently learning **Next.js, Typescript & React Native**
+- 🌱 I’m currently learning **React Native, Springboot and AWS**
 
-- 💬 Ask me about **React and Node.js**
+- 💬 Ask me about **React, Next and Node.js**
 
 - ⚡ Fun fact **I am fluent in German, English and Spanish**
 
