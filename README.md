@@ -10,6 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gino23odar&show_icons=true&locale=en&layout=compact" alt="gino23odar" /></p>
 
 <h2>Welcome to my corner of the internet! 🏫</h2>
+<h3 align="left">Check some of my live deployments in my website: <a href="https://www.ginoodar.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/378772/webpositive.svg" alt="gino23odar" height="60" width="80" /></a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gino23odar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gino23odar" height="30" width="40" /></a>
