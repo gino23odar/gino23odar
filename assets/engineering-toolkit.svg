@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 555" width="1200" height="555" role="img" aria-label="Engineering toolkit: services and messaging, search and data, delivery automation, observability, quality engineering, and applications. Includes Spring Boot, Kafka, OpenSearch, ClickHouse, Jenkins, Semaphore, New Relic, CloudWatch, and other tools.">
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112b43"/><stop offset="1" stop-color="#061321"/></linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#27506A" stroke-width=".6" opacity=".38"/></pattern>
+</defs>
+<rect width="1200" height="555" rx="18" fill="url(#background)"/>
+<rect width="1200" height="555" rx="18" fill="url(#grid)"/>
+<rect x="1.5" y="1.5" width="1197" height="552" rx="16" fill="none" stroke="#426f89"/>
+<path d="M30 2H216" stroke="#3CE6DB" stroke-width="4"/>
+<text x="32" y="47" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="25" fill="#F4F9FF">ENGINEERING TOOLKIT</text>
+<text x="32" y="76" font-family="Arial,Helvetica,sans-serif" font-weight="500" font-size="16" fill="#B2CBDC">Technologies across development, data, delivery, operations and testing</text>
+
+<rect x="31" y="110" width="362" height="192" rx="12" fill="#0E263B" stroke="#3CE6DB" stroke-opacity=".68" stroke-width="1.6"/>
+<rect x="46" y="125" width="37" height="31" rx="7" fill="#18384F" stroke="#3CE6DB"/>
+<text x="64.5" y="146" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#3CE6DB">01</text>
+<text x="94" y="146" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="17.5" fill="#F4F9FF">SERVICES &amp; MESSAGING</text>
+<rect x="48.0" y="176" width="58.2" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="77.1" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Java</text>
+<rect x="113.2" y="176" width="116.3" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="171.4" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Spring Boot</text>
+<rect x="236.5" y="176" width="83.1" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="278.1" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Node.js</text>
+<rect x="48.0" y="227" width="66.5" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="81.2" y="251" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Kafka</text>
+<rect x="121.5" y="227" width="74.8" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="158.9" y="251" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Python</text>
+<rect x="419" y="110" width="362" height="192" rx="12" fill="#0E263B" stroke="#60AEFF" stroke-opacity=".68" stroke-width="1.6"/>
+<rect x="434" y="125" width="37" height="31" rx="7" fill="#18384F" stroke="#60AEFF"/>
+<text x="452.5" y="146" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#60AEFF">02</text>
+<text x="482" y="146" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="17.5" fill="#F4F9FF">SEARCH &amp; DATA</text>
+<rect x="436.0" y="176" width="108.0" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="490.0" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">OpenSearch</text>
+<rect x="551.0" y="176" width="108.0" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="605.0" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">ClickHouse</text>
+<rect x="436.0" y="227" width="108.0" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="490.0" y="251" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">PostgreSQL</text>
+<rect x="551.0" y="227" width="66.5" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="584.2" y="251" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">MySQL</text>
+<rect x="624.5" y="227" width="49.9" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="649.5" y="251" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">SQL</text>
+<rect x="807" y="110" width="362" height="192" rx="12" fill="#0E263B" stroke="#AE9CFF" stroke-opacity=".68" stroke-width="1.6"/>
+<rect x="822" y="125" width="37" height="31" rx="7" fill="#18384F" stroke="#AE9CFF"/>
+<text x="840.5" y="146" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#AE9CFF">03</text>
+<text x="870" y="146" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="17.5" fill="#F4F9FF">CI/CD &amp; INFRASTRUCTURE</text>
+<rect x="824.0" y="176" width="83.1" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="865.5" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Jenkins</text>
+<rect x="914.1" y="176" width="124.6" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="976.4" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Semaphore CI</text>
+<rect x="1045.7" y="176" width="74.8" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="1083.1" y="200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Docker</text>
+<rect x="824.0" y="227" width="49.9" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="849.0" y="251" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">AWS</text>
+<rect x="880.9" y="227" width="66.5" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="914.1" y="251" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Linux</text>
+<rect x="31" y="320" width="362" height="192" rx="12" fill="#0E263B" stroke="#FFCC7E" stroke-opacity=".68" stroke-width="1.6"/>
+<rect x="46" y="335" width="37" height="31" rx="7" fill="#18384F" stroke="#FFCC7E"/>
+<text x="64.5" y="356" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#FFCC7E">04</text>
+<text x="94" y="356" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="17.5" fill="#F4F9FF">OBSERVABILITY</text>
+<rect x="48.0" y="386" width="99.7" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="97.8" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">New Relic</text>
+<rect x="154.7" y="386" width="108.0" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="208.7" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">CloudWatch</text>
+<rect x="48.0" y="437" width="141.2" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="118.6" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Logs &amp; tracing</text>
+<rect x="196.2" y="437" width="116.3" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="254.4" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Diagnostics</text>
+<rect x="419" y="320" width="362" height="192" rx="12" fill="#0E263B" stroke="#7FEBB6" stroke-opacity=".68" stroke-width="1.6"/>
+<rect x="434" y="335" width="37" height="31" rx="7" fill="#18384F" stroke="#7FEBB6"/>
+<text x="452.5" y="356" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#7FEBB6">05</text>
+<text x="482" y="356" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="17.5" fill="#F4F9FF">QUALITY ENGINEERING</text>
+<rect x="436.0" y="386" width="108.0" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="490.0" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Playwright</text>
+<rect x="551.0" y="386" width="91.4" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="596.7" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Selenium</text>
+<rect x="649.4" y="386" width="66.5" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="682.6" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">JUnit</text>
+<rect x="436.0" y="437" width="83.1" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="477.6" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Mockito</text>
+<rect x="526.1" y="437" width="174.4" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="613.3" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Regression testing</text>
+<rect x="807" y="320" width="362" height="192" rx="12" fill="#0E263B" stroke="#3CE6DB" stroke-opacity=".68" stroke-width="1.6"/>
+<rect x="822" y="335" width="37" height="31" rx="7" fill="#18384F" stroke="#3CE6DB"/>
+<text x="840.5" y="356" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#3CE6DB">06</text>
+<text x="870" y="356" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="17.5" fill="#F4F9FF">APPLICATIONS</text>
+<rect x="824.0" y="386" width="66.5" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="857.2" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">React</text>
+<rect x="897.5" y="386" width="83.1" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="939.0" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Next.js</text>
+<rect x="987.6" y="386" width="124.6" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="1049.9" y="410" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">React Native</text>
+<rect x="824.0" y="437" width="108.0" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="878.0" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">TypeScript</text>
+<rect x="939.0" y="437" width="83.1" height="37" rx="8" fill="#17364D" stroke="#345976" stroke-width="1"/>
+<text x="980.5" y="461" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16.1" fill="#EAF4FD">Express</text>
+<text x="33" y="533" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#C3D9E7">Curated toolkit, not an inventory of a single deployed architecture or a certification list.</text></svg>

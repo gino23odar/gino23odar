@@ -1,28 +1,120 @@
-<h1 align="center">Hi 👋, I'm Gino</h1>
-<h3 align="center">A passionate software developer from Peru 🇵🇪</h3>
+<!-- GINO ODAR / AI SYSTEMS x FORWARD-DEPLOYED ENGINEERING -->
+<!-- All visual assets are local, dependency-free images. No widgets display simulated live data. -->
 
-- 🌱 I’m currently learning **React Native, Springboot and AWS**
+<div align="center">
+  <img src="./assets/hero-ai-systems.gif" width="100%" alt="Gino Odar, software engineer: animated high-contrast systems-inspired hero banner" />
+  <br /><br />
+  <a href="https://www.ginoodar.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gino-odar/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/gino23odar?tab=repositories"><b>Repositories</b></a>
+</div>
 
-- 💬 Ask me about **React, Next and Node.js**
+### `> whoami`
 
-- ⚡ Fun fact **I am fluent in German, English and Spanish**
+I'm **Gino**, a software engineer based in Lima, Peru. My work spans **backend development, APIs, product integrations, troubleshooting, and software quality**. I've worked on reporting workflows and third-party advertising integrations at **Ensolvers / HYROS**, following issues across application layers and validating their behavior.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gino23odar&show_icons=true&locale=en&layout=compact" alt="gino23odar" /></p>
+I'm moving toward **AI engineering and forward-deployed engineering**: work that connects engineering depth with ambiguous real-world problems. The parts I particularly enjoy are understanding the constraints, integrating systems, tracking down failures, and making a solution useful beyond the demo.
 
-<h2>Welcome to my corner of the internet! 🏫</h2>
-<h3 align="left">Check some of my live deployments in my website: <a href="https://www.ginoodar.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/378772/webpositive.svg" alt="gino23odar" height="60" width="80" /></a></h3>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/gino23odar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gino23odar" height="30" width="40" /></a>
-<a href="https://instagram.com/ginoodar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ginoodar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gino23odar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gino23odar" height="30" width="40" /></a>
-  <a href="https://replit.com/@gino23odar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="gino23odar" height="30" width="40" /></a>
-</p>
+My public AI-related work includes a **collaborative LLM hackathon project** and a **full-stack prototype with swappable provider interfaces**. I'm developing deeper experience with model integrations, retrieval, evaluations, and production delivery patterns.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="./assets/field-engineering-loop.gif" width="100%" alt="Animated four-stage engineering approach: discover, integrate, verify, improve" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gino23odar&show_icons=true&locale=en" alt="gino23odar" /></p>
+### `01 / Applied AI systems — how I think about the stack`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gino23odar&" alt="gino23odar" /></p>
+<div align="center">
+  <img src="./assets/ai-reference-architecture.gif" width="100%" alt="Animated conceptual AI architecture connecting input surfaces, routing, orchestration, retrieval, enterprise tools, model gateway, quality gates, delivery, feedback, and representative tool examples" />
+</div>
 
+**Good AI applications are more than a model call.** The hard part is often the surrounding system: access to context, integration with tools, validation of outputs, observability, and iteration based on what actually happens.
+
+> **Reference diagram, not a project claim:** This is a conceptual AI system with representative tooling placements, **not** a diagram of a deployed solution or my employer's infrastructure. The tools listed below reflect engineering technologies I've used, while the AI architecture illustrates the direction I'm developing toward.
+
+### `02 / Engineering foundation`
+
+<div align="center">
+  <img src="./assets/engineering-foundation.svg" width="100%" alt="Engineering focus diagram covering backend systems, integrations, product delivery, and reliability" />
+</div>
+
+| Focus | Technologies and practices |
+| :-- | :-- |
+| **Backend & distributed services** | Java, Spring Boot, Node.js, Express, Python, REST APIs, Kafka |
+| **Search, analytics & databases** | **OpenSearch, ClickHouse**, PostgreSQL, MySQL, SQLite, SQL |
+| **CI/CD & infrastructure** | **Jenkins, Semaphore CI**, Docker, Linux, Git, AWS tooling, Bash |
+| **Observability & diagnostics** | **New Relic, Amazon CloudWatch**, application logs, debugging across services |
+| **Quality engineering** | Playwright, Selenium, JUnit, Mockito, automated and regression testing |
+| **Frontend & mobile** | TypeScript, JavaScript, React, Next.js, React Native |
+| **AI experimentation & direction** | LLM-assisted applications, Streamlit, local model workflows; growing toward RAG, tool use and evaluation |
+
+
+<div align="center">
+  <img src="./assets/engineering-toolkit.svg" width="100%" alt="Six-category engineering toolkit graphic including Java, Spring Boot, Kafka, OpenSearch, ClickHouse, Jenkins, Semaphore CI, New Relic, CloudWatch, Docker, AWS, Playwright, React, and more" />
+</div>
+
+<sub>Tool names describe technology familiarity and experience, not certifications or claims that every tool was used within the same architecture. **AI experimentation** and **future AI engineering interests** are deliberately distinguished from production expertise.</sub>
+
+
+### `03 / Selected public work`
+
+<sub>These cards are generated from a configurable project catalog. Swap featured projects by editing [config/projects.json](./config/projects.json).</sub>
+
+<!-- FEATURED_PROJECTS:START -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/gino23odar/LlamaImpact-hackathon-streamlit"><img src="./assets/featured-1.svg" width="100%" alt="Diagram card for AcademIA de Profesores" /></a>
+  <br /><b><a href="https://github.com/gino23odar/LlamaImpact-hackathon-streamlit">AcademIA de Profesores</a></b><br />
+  <sub>Collaborative Llama Impact hackathon project: a Streamlit-based assistant intended to help educators prepare lesson plans. Team effort.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/gino23odar/gen-vault"><img src="./assets/featured-2.svg" width="100%" alt="Diagram card for Verdant Mythic Vault" /></a>
+  <br /><b><a href="https://github.com/gino23odar/gen-vault">Verdant Mythic Vault</a></b><br />
+  <sub>Full-stack React/TypeScript + Express/PostgreSQL prototype with provider abstractions and mock-service mode. Real model-provider integrations are future work.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/gino23odar/queue-management-simulation"><img src="./assets/featured-3.svg" width="100%" alt="Diagram card for Queue Management Simulation" /></a>
+  <br /><b><a href="https://github.com/gino23odar/queue-management-simulation">Queue Management Simulation</a></b><br />
+  <sub>Python discrete-event simulation comparing FCFS, shortest-processing-time and priority scheduling under controlled workloads, with automated tests.</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/gino23odar/dlmdspwp01-written-assignment"><img src="./assets/featured-4.svg" width="100%" alt="Diagram card for Ideal Function Data Pipeline" /></a>
+  <br /><b><a href="https://github.com/gino23odar/dlmdspwp01-written-assignment">Ideal Function Data Pipeline</a></b><br />
+  <sub>Python coursework project combining CSV validation, ideal-function mapping, SQLite persistence, automated tests and Bokeh visualizations.</sub>
+</td>
+</tr>
+</table>
+
+<!-- FEATURED_PROJECTS:END -->
+
+### `04 / Professional engineering experience`
+
+Working with **Ensolvers / HYROS**, my experience has included:
+
+- Investigating failures and unexpected behavior across backend services, frontend workflows, and reporting logic.
+- Working with advertising platform integrations, external APIs, and connected data flows.
+- Reproducing problems through targeted scenarios, database inspection, and automation.
+- Using tests, logs, and observability tooling including **New Relic** and **CloudWatch** to investigate and validate behavior.
+- Working within a development environment that includes CI/CD, data, and search tooling; my toolkit includes **Jenkins, Semaphore CI, OpenSearch, and ClickHouse**.
+
+This work takes place largely in private repositories. The public projects above are separate examples of work I can share, not copies of employer systems.
+
+### `05 / Where I'm going`
+
+I'm interested in **AI Engineer** and **Forward-Deployed Engineer** opportunities that combine practical software delivery with customer-facing problem solving. The engineering problems I want to spend more time on involve **model and tool integration, evaluation, workflows, systems reliability, and moving from prototype to useful software**.
+
+The goal is to bring a solid software engineering foundation into real AI-enabled products — without treating the model as the entire system.
+
+---
+
+<div align="center">
+  <b>Let's connect over an interesting engineering problem.</b><br /><br />
+  <a href="https://www.ginoodar.com">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/gino-odar/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://github.com/gino23odar">GitHub</a>
+  <br /><br />
+  <sub>Lima, Peru &nbsp;·&nbsp; Spanish / English / German &nbsp;·&nbsp; Illustrative architecture, not live system telemetry.</sub>
+</div>

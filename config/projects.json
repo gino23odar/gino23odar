@@ -1,0 +1,60 @@
+{
+  "featured": [
+    "academia",
+    "vault",
+    "queue",
+    "functions"
+  ],
+  "catalog": {
+    "academia": {
+      "title": "AcademIA de Profesores",
+      "url": "https://github.com/gino23odar/LlamaImpact-hackathon-streamlit",
+      "category": "APPLIED AI / TEAM HACKATHON",
+      "subtitle": "Lesson-planning assistant for educators",
+      "description": "Collaborative Llama Impact hackathon project: a Streamlit-based assistant intended to help educators prepare lesson plans. Team effort.",
+      "flow": ["EDUCATOR", "PROMPT", "LLM ASSISTANT"],
+      "tags": ["STREAMLIT", "LLM", "TEAM PROJECT"],
+      "color": "cyan"
+    },
+    "vault": {
+      "title": "Verdant Mythic Vault",
+      "url": "https://github.com/gino23odar/gen-vault",
+      "category": "FULL-STACK / PROVIDER ABSTRACTION",
+      "subtitle": "React frontend, APIs and swappable providers",
+      "description": "Full-stack React/TypeScript + Express/PostgreSQL prototype with provider abstractions and mock-service mode. Real model-provider integrations are future work.",
+      "flow": ["REACT CLIENT", "API SERVER", "PROVIDERS"],
+      "tags": ["TYPESCRIPT", "POSTGRESQL", "DOCKER"],
+      "color": "violet"
+    },
+    "queue": {
+      "title": "Queue Management Simulation",
+      "url": "https://github.com/gino23odar/queue-management-simulation",
+      "category": "ALGORITHMS / EXPERIMENTS",
+      "subtitle": "Discrete-event scheduling comparisons",
+      "description": "Python discrete-event simulation comparing FCFS, shortest-processing-time and priority scheduling under controlled workloads, with automated tests.",
+      "flow": ["ARRIVALS", "SCHEDULER", "METRICS"],
+      "tags": ["PYTHON", "SIMULATION", "TESTS"],
+      "color": "blue"
+    },
+    "functions": {
+      "title": "Ideal Function Data Pipeline",
+      "url": "https://github.com/gino23odar/dlmdspwp01-written-assignment",
+      "category": "DATA ENGINEERING / COURSEWORK",
+      "subtitle": "Validation, function mapping and visualizations",
+      "description": "Python coursework project combining CSV validation, ideal-function mapping, SQLite persistence, automated tests and Bokeh visualizations.",
+      "flow": ["CSV DATA", "MAPPER", "SQLITE"],
+      "tags": ["PYTHON", "SQLITE", "BOKEH"],
+      "color": "teal"
+    },
+    "wardrove": {
+      "title": "Wardrove Backend Foundation",
+      "url": "https://github.com/gino23odar/myFit",
+      "category": "JAVA / BACKEND FOUNDATION",
+      "subtitle": "Spring Boot API and PostgreSQL scaffolding",
+      "description": "Initial backend foundation for a clothing and outfit application, with Java, Spring Boot, PostgreSQL, Flyway migrations and an Actuator health endpoint.",
+      "flow": ["SPRING API", "FLYWAY", "POSTGRESQL"],
+      "tags": ["JAVA", "SPRING BOOT", "POSTGRESQL"],
+      "color": "amber"
+    }
+  }
+}

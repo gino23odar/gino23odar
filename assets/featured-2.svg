@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 266" width="610" height="266" role="img" aria-label="Project diagram: Verdant Mythic Vault">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#112A40"/><stop offset="1" stop-color="#081728"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0 H0 V28" fill="none" stroke="#35576C" stroke-opacity="0.35" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="610" height="266" rx="16" fill="url(#card-bg)"/>
+  <rect width="610" height="266" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="608" height="264" rx="15" fill="none" stroke="#3E637C" stroke-width="1.5"/>
+  <path d="M24 1 H172" fill="none" stroke="#AD9AFF" stroke-width="4"/>
+  <text x="24" y="34" font-family="Arial, Helvetica, sans-serif" font-size="13.5" font-weight="700" fill="#AD9AFF">02 / FULL-STACK / PROVIDER ABSTRACTION</text>
+  <text x="24" y="79" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#F3F8FF">Verdant Mythic Vault</text>
+  <text x="24" y="110" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#D1E2F5">React frontend, APIs and swappable providers</text>
+  <circle cx="573" cy="32" r="5" fill="#AD9AFF"/>
+  <rect x="24" y="160" width="174" height="55" rx="10" fill="#15364B" stroke="#AD9AFF" stroke-opacity="0.7"/><text x="111" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#F1F8FF">REACT CLIENT</text><path d="M198 187 H216 m-6 -5 l6 5 -6 5" fill="none" stroke="#AD9AFF" stroke-width="2.4"/><rect x="217" y="160" width="174" height="55" rx="10" fill="#15364B" stroke="#AD9AFF" stroke-opacity="0.7"/><text x="304" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#F1F8FF">API SERVER</text><path d="M391 187 H409 m-6 -5 l6 5 -6 5" fill="none" stroke="#AD9AFF" stroke-width="2.4"/><rect x="410" y="160" width="174" height="55" rx="10" fill="#15364B" stroke="#AD9AFF" stroke-opacity="0.7"/><text x="497" y="194" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#F1F8FF">PROVIDERS</text>
+  <text x="24" y="245" font-family="Arial, Helvetica, sans-serif" font-size="14.3" font-weight="700" fill="#BFD9ED">TYPESCRIPT   ·   POSTGRESQL   ·   DOCKER</text>
+</svg>
