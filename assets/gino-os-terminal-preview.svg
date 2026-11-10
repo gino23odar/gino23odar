@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="396" viewBox="0 0 1200 396" role="img" aria-labelledby="title desc">
+ <title id="title">GINO.OS concept: terminal interface for exploring Gino Odar's projects and experience</title>
+ <desc id="desc">Non-interactive preview of the future terminal: ask a question and receive a source-grounded response. Status: in development.</desc>
+ <defs>
+   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E2336"/><stop offset="1" stop-color="#081421"/></linearGradient>
+   <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6AF2DF"/><stop offset="1" stop-color="#5CB9FF"/></linearGradient>
+   <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#365469" stroke-opacity=".17" fill="none"/></pattern>
+ </defs>
+ <rect x="1" y="1" width="1198" height="394" rx="20" fill="url(#bg)" stroke="#46627A" stroke-width="2"/>
+ <rect x="1" y="1" width="1198" height="394" rx="20" fill="url(#grid)"/>
+ <rect x="1" y="1" width="1198" height="52" rx="20" fill="#172A3D"/>
+ <rect x="1" y="34" width="1198" height="20" fill="#172A3D"/>
+ <circle cx="31" cy="27" r="7" fill="#FF7D8C"/><circle cx="55" cy="27" r="7" fill="#F6C56A"/><circle cx="79" cy="27" r="7" fill="#52D9AF"/>
+ <text x="107" y="33" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" fill="#D7E9FA">gino@portfolio: ~/terminal</text>
+ <rect x="943" y="14" width="228" height="27" rx="13.5" fill="#2B3B50" stroke="#667F97"/>
+ <circle cx="962" cy="27.5" r="5" fill="#F6C56A"/>
+ <text x="976" y="33" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="bold" fill="#EFF5FF">IN DEVELOPMENT</text>
+ <text x="32" y="98" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="bold" fill="#FAFDFF">GINO.OS  <tspan fill="#72EEDC">/</tspan>  AI-ASSISTED PORTFOLIO</text>
+ <text x="32" y="127" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#C6DAED">A future interface for exploring verified experience, projects and engineering skills.</text>
+ <rect x="29" y="152" width="1139" height="196" rx="12" fill="#0A1727" stroke="#385B70"/>
+ <text x="51" y="190" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="20" font-weight="bold" fill="#73EFDE">$</text>
+ <text x="79" y="190" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" fill="#F4F8FF">show me Gino's backend and integration experience</text>
+ <path d="M51 209 H1138" stroke="#2C445B"/>
+ <text x="51" y="242" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="bold" fill="#DDEEFF">Example response</text>
+ <text x="51" y="272" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#CADDED">Java / Spring Boot services, advertising API integrations, reporting workflows,</text>
+ <text x="51" y="299" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#CADDED">debugging across systems, QA automation, New Relic and CloudWatch.</text>
+ <text x="51" y="330" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="13" fill="#8CE3D2">SOURCE  portfolio data  <tspan fill="#94ABC1">|</tspan>  MODE  concept preview</text>
+ <text x="32" y="379" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#AAC1D7">The live terminal will launch on GitHub Pages / ginoodar.com after implementation.</text>
+</svg>

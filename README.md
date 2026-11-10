@@ -1,63 +1,82 @@
-<!-- GINO ODAR / AI SYSTEMS x FORWARD-DEPLOYED ENGINEERING -->
-<!-- All visual assets are local, dependency-free images. No widgets display simulated live data. -->
+<!-- GINO ODAR / AI SYSTEMS & INTEGRATION ENGINEERING -->
+<!-- GINO.OS is a planned interactive portfolio, not a live service. -->
+<!-- Featured projects are regenerated from config/projects.json. -->
 
 <div align="center">
-  <img src="./assets/hero-ai-systems.gif" width="100%" alt="Gino Odar, software engineer: animated high-contrast systems-inspired hero banner" />
+  <img src="./assets/hero-ai-systems.gif" width="100%" alt="Animated Gino Odar banner: AI Systems and Integration Engineer; applied AI, integrations and reliability" />
   <br /><br />
   <a href="https://www.ginoodar.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gino-odar/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/gino23odar?tab=repositories"><b>Repositories</b></a>
 </div>
 
-### `> whoami`
+### `whoami`
 
-I'm **Gino**, a software engineer based in Lima, Peru. My work spans **backend development, APIs, product integrations, troubleshooting, and software quality**. I've worked on reporting workflows and third-party advertising integrations at **Ensolvers / HYROS**, following issues across application layers and validating their behavior.
+I'm **Gino**, an **AI Systems & Integration Engineer** based in Lima, Peru, with a foundation in **backend development, API integrations, quality engineering and production troubleshooting**. I work across application layers to understand why systems behave the way they do — from services and data flows to user-facing behavior and automated tests.
 
-I'm moving toward **AI engineering and forward-deployed engineering**: work that connects engineering depth with ambiguous real-world problems. The parts I particularly enjoy are understanding the constraints, integrating systems, tracking down failures, and making a solution useful beyond the demo.
+My focus is moving toward **applied AI and forward-deployed engineering**: connecting models to real systems, designing dependable tool integrations, evaluating outcomes and shipping software that solves an actual problem. My public work includes a collaborative LLM hackathon project, a full-stack prototype with pluggable providers, and tested Python engineering projects.
 
-My public AI-related work includes a **collaborative LLM hackathon project** and a **full-stack prototype with swappable provider interfaces**. I'm developing deeper experience with model integrations, retrieval, evaluations, and production delivery patterns.
+**What I bring:** backend and integration experience, systematic debugging, Playwright-based QA, and an engineering mindset that treats observability, permissions and evaluation as part of the product — not an afterthought.
 
-<div align="center">
-  <img src="./assets/field-engineering-loop.gif" width="100%" alt="Animated four-stage engineering approach: discover, integrate, verify, improve" />
-</div>
+**Navigation:** [GINO.OS](#ginoos) · [Experience](#professional-engineering-experience) · [Projects](#selected-public-work) · [Engineering stack](#engineering-foundation) · [AI toolkit](#ai-engineering-toolkit) · [Architecture](#applied-ai-systems) · [Contact](#connect)
 
-### `01 / Applied AI systems — how I think about the stack`
+---
 
-<div align="center">
-  <img src="./assets/ai-reference-architecture.gif" width="100%" alt="Animated conceptual AI architecture connecting input surfaces, routing, orchestration, retrieval, enterprise tools, model gateway, quality gates, delivery, feedback, and representative tool examples" />
-</div>
+## GINO.OS
 
-**Good AI applications are more than a model call.** The hard part is often the surrounding system: access to context, integration with tools, validation of outputs, observability, and iteration based on what actually happens.
-
-> **Reference diagram, not a project claim:** This is a conceptual AI system with representative tooling placements, **not** a diagram of a deployed solution or my employer's infrastructure. The tools listed below reflect engineering technologies I've used, while the AI architecture illustrates the direction I'm developing toward.
-
-### `02 / Engineering foundation`
+**Interactive portfolio · In development**
 
 <div align="center">
-  <img src="./assets/engineering-foundation.svg" width="100%" alt="Engineering focus diagram covering backend systems, integrations, product delivery, and reliability" />
+  <img src="./assets/gino-os-terminal-preview.svg" width="100%" alt="Static concept for GINO.OS, a future natural-language portfolio terminal; not currently interactive" />
 </div>
 
-| Focus | Technologies and practices |
-| :-- | :-- |
-| **Backend & distributed services** | Java, Spring Boot, Node.js, Express, Python, REST APIs, Kafka |
-| **Search, analytics & databases** | **OpenSearch, ClickHouse**, PostgreSQL, MySQL, SQLite, SQL |
-| **CI/CD & infrastructure** | **Jenkins, Semaphore CI**, Docker, Linux, Git, AWS tooling, Bash |
-| **Observability & diagnostics** | **New Relic, Amazon CloudWatch**, application logs, debugging across services |
-| **Quality engineering** | Playwright, Selenium, JUnit, Mockito, automated and regression testing |
-| **Frontend & mobile** | TypeScript, JavaScript, React, Next.js, React Native |
-| **AI experimentation & direction** | LLM-assisted applications, Streamlit, local model workflows; growing toward RAG, tool use and evaluation |
+**Coming next:** A GitHub Pages-based terminal where visitors can ask questions about my professional experience, inspect project source code and explore engineering decisions. The responses will be grounded in verified, public portfolio data. A future GitHub Issues + Actions interface may also support questions directly from the GitHub ecosystem.
 
+*This is a concept preview, not a live prompt input or deployed AI agent.* Until launch, use these GitHub-native shortcuts:
 
-<div align="center">
-  <img src="./assets/engineering-toolkit.svg" width="100%" alt="Six-category engineering toolkit graphic including Java, Spring Boot, Kafka, OpenSearch, ClickHouse, Jenkins, Semaphore CI, New Relic, CloudWatch, Docker, AWS, Playwright, React, and more" />
-</div>
+<details>
+<summary><b>⌁ $ help</b> — Navigate this profile</summary>
 
-<sub>Tool names describe technology familiarity and experience, not certifications or claims that every tool was used within the same architecture. **AI experimentation** and **future AI engineering interests** are deliberately distinguished from production expertise.</sub>
+- [`whoami` → professional introduction](#whoami)
+- [`experience` → backend, integrations & QA](#professional-engineering-experience)
+- [`projects` → open-source work](#selected-public-work)
+- [`stack` → engineering toolkit](#engineering-foundation)
+- [`ai` → tools & approaches I'm exploring](#ai-engineering-toolkit)
+- [`architecture` → AI systems reference diagram](#applied-ai-systems)
 
+</details>
 
-### `03 / Selected public work`
+<details>
+<summary><b>⌁ $ projects</b> — Explore source code</summary>
 
-<sub>These cards are generated from a configurable project catalog. Swap featured projects by editing [config/projects.json](./config/projects.json).</sub>
+Browse the [featured projects below](#selected-public-work), or [view all public repositories](https://github.com/gino23odar?tab=repositories). Featured project cards link to actual repositories and can be swapped without changing the layout.
+
+</details>
+
+<details>
+<summary><b>⌁ $ experience</b> — Explore professional background</summary>
+
+My experience includes backend services, advertising API integrations, analytics/reporting workflows, QA automation with **Playwright**, regression analysis, database investigation, and debugging with logs and observability tools. [See the full summary](#professional-engineering-experience).
+
+</details>
+
+---
+
+## Professional engineering experience
+
+My professional work has spanned **backend development, integrations, technical investigation and software quality** across a production software environment:
+
+- **Backend & integration engineering:** Worked with Java / Spring Boot services, REST APIs, reporting and attribution workflows, and third-party advertising integrations. Investigated issues that cross service, database and frontend boundaries.
+- **QA automation & reliability:** Worked with **Playwright** for UI and end-to-end testing, reproducible staging scenarios, regression coverage, and validation of complex reporting interactions. Investigated flaky tests and defects that required understanding the underlying service behavior.
+- **Cross-layer debugging:** Analyzed API responses, SQL records, application logs and unexpected UI states to isolate root causes and verify fixes, including test-data setup when reproduction required controlled conditions.
+- **Monitoring & delivery:** Used **New Relic** and **Amazon CloudWatch** in issue investigation; worked in environments using **Jenkins**, **Semaphore CI**, Docker, Linux, OpenSearch and ClickHouse.
+- **Collaboration:** Worked across implementation, QA and technical troubleshooting, translating observed failures into clear reproduction steps, technical findings and verification work.
+
+Most professional code is held in private repositories. The projects below are **separate public work**, not employer source code or demonstrations of proprietary architectures.
+
+## Selected public work
+
+<sub>Cards are generated from [config/projects.json](./config/projects.json). Edit the featured list and run the generator to swap projects or rearrange them.</sub>
 
 <!-- FEATURED_PROJECTS:START -->
 
@@ -90,31 +109,74 @@ My public AI-related work includes a **collaborative LLM hackathon project** and
 
 <!-- FEATURED_PROJECTS:END -->
 
-### `04 / Professional engineering experience`
+## Engineering foundation
 
-Working with **Ensolvers / HYROS**, my experience has included:
+<div align="center">
+  <img src="./assets/engineering-foundation.svg" width="100%" alt="Engineering pillars: backend systems, integrations, product delivery and reliability" />
+</div>
 
-- Investigating failures and unexpected behavior across backend services, frontend workflows, and reporting logic.
-- Working with advertising platform integrations, external APIs, and connected data flows.
-- Reproducing problems through targeted scenarios, database inspection, and automation.
-- Using tests, logs, and observability tooling including **New Relic** and **CloudWatch** to investigate and validate behavior.
-- Working within a development environment that includes CI/CD, data, and search tooling; my toolkit includes **Jenkins, Semaphore CI, OpenSearch, and ClickHouse**.
+| Area | Technologies & practices |
+| :-- | :-- |
+| **Backend & APIs** | Java, Spring Boot, Node.js, Express, Python, REST APIs, Kafka |
+| **Data, search & analytics** | PostgreSQL, MySQL, SQLite, **OpenSearch, ClickHouse**, SQL |
+| **CI/CD & infrastructure** | **Jenkins, Semaphore CI**, GitHub Actions, Docker, Linux, Bash, AWS tooling |
+| **Observability** | **New Relic, Amazon CloudWatch**, logs, tracing and production diagnostics |
+| **QA & testing** | **Playwright**, Selenium, JUnit, Mockito, end-to-end tests, regression testing, debugging flaky tests |
+| **Frontend & mobile** | TypeScript, JavaScript, React, Next.js, React Native |
 
-This work takes place largely in private repositories. The public projects above are separate examples of work I can share, not copies of employer systems.
+<div align="center">
+  <img src="./assets/engineering-toolkit.svg" width="100%" alt="Engineering toolkit: backend, search, CI/CD, observability, QA and frontend technologies" />
+</div>
 
-### `05 / Where I'm going`
+## AI engineering toolkit
 
-I'm interested in **AI Engineer** and **Forward-Deployed Engineer** opportunities that combine practical software delivery with customer-facing problem solving. The engineering problems I want to spend more time on involve **model and tool integration, evaluation, workflows, systems reliability, and moving from prototype to useful software**.
+<div align="center">
+  <img src="./assets/ai-toolchain.svg" width="100%" alt="AI engineering focus areas: coding agents, Model Context Protocol, local models, agent workflows, evaluation and reliability" />
+</div>
 
-The goal is to bring a solid software engineering foundation into real AI-enabled products — without treating the model as the entire system.
+My focus is on **applied AI systems**, especially where AI needs to interact with real APIs, data and production tooling. I separate work I've actually built from technologies I'm studying or experimenting with:
+
+| Area | Tools, practices & status |
+| :-- | :-- |
+| **Hands-on AI work** | Collaborative **LLM + Streamlit hackathon project**; local LLM workflows with **Ollama / Qwen**; provider-abstraction prototype with mock implementations |
+| **AI developer tooling — exploring** | **Claude Code**, **OpenAI Codex**, **Model Context Protocol (MCP)** clients/servers and AI-assisted development workflows |
+| **Agent engineering — focus** | Tool/function calling, structured outputs, orchestration patterns, human-in-the-loop approval, durable workflows |
+| **Retrieval & context — focus** | Retrieval-augmented generation (RAG), hybrid search, context engineering, source-grounded responses, authorization-aware retrieval |
+| **Quality & operations — focus** | LLM evaluations, regression datasets, prompt-injection defenses, traceability, latency/cost monitoring, operational guardrails |
+
+**The principle:** It's not enough for an AI demo to answer questions. It should connect to the right information, respect access boundaries, handle failures and provide evidence that its outputs are useful.
+
+<sub>Tools labeled "exploring" or "focus" are areas of active interest and development, **not claims of professional production deployment or certification**.</sub>
+
+## Applied AI systems
+
+<div align="center">
+  <img src="./assets/field-engineering-loop.gif" width="100%" alt="Animated delivery loop: discover, integrate, verify, improve" />
+  <br /><br />
+  <img src="./assets/ai-reference-architecture.gif" width="100%" alt="Animated reference architecture: routing, orchestration, retrieval, tools, model gateway, quality checks and observability" />
+</div>
+
+I'm interested in the **full lifecycle of an AI-enabled application**: understanding constraints, integrating data and tools, controlling model behavior, writing meaningful evaluations, monitoring failures and improving the experience after launch.
+
+*Reference architecture for discussion and exploration, not a claim that I've deployed this entire stack in one customer system.*
+
+## What I'm building toward
+
+- **GINO.OS:** An interactive portfolio terminal backed by verified public career and project information; planned for GitHub Pages with a separately hosted AI API.
+- **Enterprise AI integrations:** Secure connector patterns, MCP interoperability, authorization-aware tools, orchestration and evaluation.
+- **Forward-deployed engineering:** Working directly from a real business problem through integrations, deployment, QA and measurable outcomes.
+
+I'm particularly interested in roles at the intersection of **AI engineering, platform integration and software reliability**.
 
 ---
 
+## Connect
+
 <div align="center">
-  <b>Let's connect over an interesting engineering problem.</b><br /><br />
-  <a href="https://www.ginoodar.com">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/gino-odar/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/gino23odar">GitHub</a>
+  <b>Have an interesting systems or AI integration problem?</b><br /><br />
+  <a href="https://www.ginoodar.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gino-odar/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/gino23odar?tab=repositories">GitHub Projects</a>
   <br /><br />
-  <sub>Lima, Peru &nbsp;·&nbsp; Spanish / English / German &nbsp;·&nbsp; Illustrative architecture, not live system telemetry.</sub>
+  <sub>Lima, Peru &nbsp;·&nbsp; English / German / Spanish</sub>
 </div>

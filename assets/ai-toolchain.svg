@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="343" viewBox="0 0 1200 343" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">AI engineering toolkit and current learning direction</title>
+<desc id="dsc">Four cards: Coding agents with Claude Code and Codex; MCP and integrations; local AI with Ollama and Qwen; evaluation and reliability. Current exploration, not production claims.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071b2a"/><stop offset="1" stop-color="#10152c"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#39546e" stroke-opacity=".22" fill="none"/></pattern>
+</defs>
+<rect width="1200" height="343" rx="16" fill="url(#bg)" stroke="#2a5265" stroke-width="2"/>
+<rect width="1200" height="343" rx="16" fill="url(#grid)"/>
+<text x="27" y="44" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="bold" fill="#EAF2FF">AI ENGINEERING / TOOLCHAIN</text>
+<text x="27" y="72" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#C5D8ED">Areas I'm actively exploring, prototyping and applying to personal projects</text>
+<rect x="24" y="94" width="280" height="194" rx="13" fill="#10243a" stroke="#406279" stroke-width="1.5"/>
+<path d="M41 110 H106" stroke="#62e3d6" stroke-width="4" stroke-linecap="round"/>
+<circle cx="273" cy="119" r="5" fill="#62e3d6"/>
+<text x="41" y="153" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="17" fill="#EFF7FF">AI CODING AGENTS</text>
+<text x="41" y="186" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#62e3d6">Claude Code  •  Codex</text>
+<text x="41" y="222" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#C3D6E8">Codebase navigation / tests</text>
+<text x="41" y="248" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#B3C8DB">Agent-assisted workflows</text>
+<rect x="318" y="94" width="280" height="194" rx="13" fill="#10243a" stroke="#406279" stroke-width="1.5"/>
+<path d="M335 110 H400" stroke="#63b4ff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="567" cy="119" r="5" fill="#63b4ff"/>
+<text x="335" y="153" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="17" fill="#EFF7FF">MCP &amp; CONNECTORS</text>
+<text x="335" y="186" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#63b4ff">Model Context Protocol</text>
+<text x="335" y="222" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#C3D6E8">Tool interfaces / permissions</text>
+<text x="335" y="248" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#B3C8DB">APIs and data integration</text>
+<rect x="612" y="94" width="280" height="194" rx="13" fill="#10243a" stroke="#406279" stroke-width="1.5"/>
+<path d="M629 110 H694" stroke="#ad91ff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="861" cy="119" r="5" fill="#ad91ff"/>
+<text x="629" y="153" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="17" fill="#EFF7FF">LOCAL AI</text>
+<text x="629" y="186" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#ad91ff">Ollama  •  Qwen</text>
+<text x="629" y="222" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#C3D6E8">Provider abstraction</text>
+<text x="629" y="248" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#B3C8DB">Local-model experimentation</text>
+<rect x="906" y="94" width="280" height="194" rx="13" fill="#10243a" stroke="#406279" stroke-width="1.5"/>
+<path d="M923 110 H988" stroke="#ffc67a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1155" cy="119" r="5" fill="#ffc67a"/>
+<text x="923" y="153" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="17" fill="#EFF7FF">EVALS &amp; RELIABILITY</text>
+<text x="923" y="186" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#ffc67a">RAG  •  Evals  •  Traces</text>
+<text x="923" y="222" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#C3D6E8">Grounded outputs / guardrails</text>
+<text x="923" y="248" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#B3C8DB">Cost, quality and latency</text>
+<text x="27" y="320" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#9CB4CA">LEARNING / EXPERIMENTATION   •   These labels are not claims of production ownership</text>
+</svg>
