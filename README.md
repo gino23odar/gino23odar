@@ -1,21 +1,13 @@
 <!-- GINO ODAR / AI SYSTEMS & INTEGRATION ENGINEERING -->
-<!-- GINO.OS uses native GitHub <details> panels, an animated ASCII portrait next to a separate static terminal-text image, an auto-generated portfolio GIF, animated typing SVG, and Issue/Actions Q&A. -->
 <!-- Featured projects are regenerated from config/projects.json. -->
 
 <div align="center">
   <img src="./assets/hero-ai-systems.gif" width="100%" alt="Animated Gino Odar banner: AI Systems and Integration Engineer; applied AI, integrations and reliability" />
-  <br /><br />
-  <a href="https://www.ginoodar.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/gino-odar/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/gino23odar?tab=repositories"><b>Repositories</b></a>
 </div>
 
-## GINO.OS
-
-**GitHub-native engineering terminal** · Select a command to reveal its complete content. Select it again to collapse.
 
 <!-- GitHub-compatible two-image banner: the ASCII GIF is animated; the terminal text panel is a separate static PNG. -->
-<table align="center">
+<table align="left">
   <tr>
     <td width="34%" align="center" valign="middle">
       <img src="./assets/ascii-thumbs-up.gif" width="100%" alt="Animated cyan ASCII portrait at a PC, looking toward the viewer and giving a thumbs-up" />
@@ -26,35 +18,23 @@
   </tr>
 </table>
 
-<sub>Click anywhere on a command image to expand or collapse its section. GitHub may still show a small native disclosure triangle. Multiple panels can remain open; the `ask` panel links to a public GitHub Issue form.</sub>
-
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=3BF74E&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=136C29&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." />
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=3BF74E&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." width="96%" alt="Animated introduction: reliable AI integrations, backend systems, Playwright QA, Kafka, OpenSearch, MCP and coding agents" />
-  </picture>
-  <br />
-  <img src="./assets/terminal-status.gif" width="100%" alt="Automatically rendered GINO.OS portfolio terminal cycling through verified engineering facts and featured projects" />
-</div>
-
-<sub>The typing line is powered by [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg). The terminal animation below is generated from approved profile facts and public project metadata by GitHub Actions. It is not a live session or visitor-specific telemetry. Commands below expand instantly; custom questions use the `ask` Issue form.</sub>
-
-
 <details id="gino-whoami">
 <summary><img src="./assets/terminal-accordions/whoami.svg" width="94%" align="middle" alt="Open whoami: Professional introduction" /></summary>
+<h3 align="center">Professional introduction</h3>
 
-### Professional introduction
 
+<p align = left>
 I'm **Gino**, an **AI Systems & Integration Engineer** based in Lima, Peru, with a foundation in **backend development, API integrations, quality engineering and production troubleshooting**. I work across application layers to understand why systems behave the way they do — from services and data flows to user-facing behavior and automated tests.
-
+</p>
+<p align = left>
 My focus is moving toward **applied AI and forward-deployed engineering**: connecting models to real systems, designing dependable tool integrations, evaluating outcomes and shipping software that solves an actual problem. My public work includes a collaborative LLM hackathon project, a full-stack prototype with pluggable providers, and tested Python engineering projects.
-
+</p>
+<p align = left>
 **What I bring:** backend and integration experience, systematic debugging, Playwright-based QA, and an engineering mindset that treats observability, permissions and evaluation as part of the product — not an afterthought.
+</p>
 
 </details>
+</br>
 
 <details id="gino-experience">
 <summary><img src="./assets/terminal-accordions/experience.svg" width="94%" align="middle" alt="Open experience: Backend systems · API integrations · Playwright QA" /></summary>
@@ -243,7 +223,23 @@ The form opens a **public GitHub Issue**; the bot replies there using the verifi
 
 </details>
 
+
+<sub>GitHub may still show a small native disclosure triangle. Multiple panels can remain open; the `ask` panel links to a public GitHub Issue form.</sub>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=3BF74E&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=136C29&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=3BF74E&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." width="96%" alt="Animated introduction: reliable AI integrations, backend systems, Playwright QA, Kafka, OpenSearch, MCP and coding agents" />
+  </picture>
+  <br />
+  <img src="./assets/terminal-status.gif" width="100%" alt="Automatically rendered GINO.OS portfolio terminal cycling through verified engineering facts and featured projects" />
+</div>
+
 ---
 
-<sub>**About this interface:** GitHub renders the panels directly. You cannot type into the README; open **ask** to send a question through GitHub Issues. GINO.OS bot replies in the Issue thread after the workflow executes. Only public, owner-reviewed portfolio facts are used, and model-powered phrasing is optional.</sub>
+<sub>**About this interface:** GitHub renders the panels directly. You cannot type into the README; open **ask** to send a question through GitHub Issues. GINO.OS bot replies in the Issue thread after the workflow executes. Only public, owner-reviewed portfolio facts are used, and model-powered phrasing is optional.</sub> <br></br>
+<a href="https://www.ginoodar.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/gino-odar/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/gino23odar?tab=repositories"><b>Repositories</b></a>
 
