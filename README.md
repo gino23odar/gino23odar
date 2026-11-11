@@ -24,28 +24,27 @@ My focus is moving toward **applied AI and forward-deployed engineering**: conne
 
 ## GINO.OS
 
-**GitHub-native engineering terminal** · Command links + public Q&A via GitHub Issues
+**GitHub-native engineering terminal** · Click a command to explore; ask custom questions through GitHub Issues.
 
 <div align="center">
-  <img src="./assets/gino-os-github-edition.svg" width="100%" alt="Illustrated GINO.OS terminal. Actual interaction uses the command links and GitHub Issues form below, not typed input into the image." />
-  <br /><br />
-  <a href="https://github.com/gino23odar/gino23odar/issues/new?template=ask-gino-os.yml"><img alt="Ask GINO.OS through a public GitHub Issue" src="https://img.shields.io/badge/ASK_GINO.OS-OPEN_QUESTION-49DCCB?style=for-the-badge&logo=github&logoColor=0B1424&labelColor=172A3E" /></a>
-  &nbsp;
-  <a href="./docs/terminal/help.md"><img alt="GINO.OS command reference" src="https://img.shields.io/badge/TERMINAL-HELP-9AAEFF?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=172A3E" /></a>
+  <img src="./assets/gino-os-command-header.svg" width="100%" alt="GINO.OS terminal header: select a clickable command below" />
+  <br />
+  <a href="#whoami"><img src="./assets/terminal-commands/whoami.svg" width="48%" alt="Whoami — professional introduction" /></a>
+  <a href="#professional-engineering-experience"><img src="./assets/terminal-commands/experience.svg" width="48%" alt="Experience — backend engineering and Playwright QA" /></a>
+  <br />
+  <a href="#selected-public-work"><img src="./assets/terminal-commands/projects.svg" width="48%" alt="Projects — featured public repositories" /></a>
+  <a href="#engineering-foundation"><img src="./assets/terminal-commands/stack.svg" width="48%" alt="Stack — engineering tools" /></a>
+  <br />
+  <a href="#ai-engineering-toolkit"><img src="./assets/terminal-commands/ai.svg" width="48%" alt="AI — MCP, Claude Code and AI tooling" /></a>
+  <a href="#applied-ai-systems"><img src="./assets/terminal-commands/architecture.svg" width="48%" alt="Architecture — reference system diagram" /></a>
+  <br />
+  <a href="#connect"><img src="./assets/terminal-commands/contact.svg" width="48%" alt="Contact — links and professional contact" /></a>
+  <a href="https://github.com/gino23odar/gino23odar/issues/new?template=ask-gino-os.yml"><img src="./assets/terminal-commands/ask.svg" width="48%" alt="Ask — submit a public question through GitHub Issues" /></a>
 </div>
 
-**`visitor@github:~$ help`** — Select a command. Each link resolves to real profile information. The `ask` command opens a public GitHub Issue, where an Action replies using verified portfolio facts.
+**Want to ask something specific?** Select **`ask`** to open a public GitHub Issue. GINO.OS can reply using verified portfolio information once the Issue workflow is enabled. Questions and answers are public.
 
-| Command | Response |
-| :-- | :-- |
-| [`$ whoami`](#whoami) | Professional introduction |
-| [`$ experience`](#professional-engineering-experience) | Backend systems, integrations and **Playwright QA** |
-| [`$ projects`](#selected-public-work) | Current hot-swappable project gallery |
-| [`$ stack`](#engineering-foundation) | Java, Kafka, OpenSearch, ClickHouse, CI/CD, observability and more |
-| [`$ ai`](#ai-engineering-toolkit) | MCP, Claude Code, Codex, LLMs, tooling and areas of development |
-| [`$ architecture`](#applied-ai-systems) | AI systems reference architecture |
-| [`$ contact`](#connect) | Portfolio, LinkedIn and GitHub |
-| **[`$ ask`](https://github.com/gino23odar/gino23odar/issues/new?template=ask-gino-os.yml)** | **Submit your own question; receive a public bot response** |
+[Command reference](./docs/terminal/help.md) · [Browse repositories](https://github.com/gino23odar?tab=repositories)
 
 <details>
 <summary><b>⌁ $ demo</b> — Example questions & verified answers</summary>
@@ -72,7 +71,7 @@ My focus is moving toward **applied AI and forward-deployed engineering**: conne
 
 </details>
 
-<sub>The Issue-based bot becomes active once this package is published on the repository's default branch with GitHub Issues and Actions enabled. The illustration above is a static graphic; the links and Issue workflow provide the real interaction.</sub>
+<sub>The Issue-based bot becomes active once this package is published on the repository's default branch with GitHub Issues and Actions enabled. The header and command cards are static images wrapped in clickable links; the Issue workflow provides the Q&A interaction.</sub>
 
 ---
 

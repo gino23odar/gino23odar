@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 257" role="img" aria-label="GINO.OS command interface. Select one of the clickable command cards below.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1b2b"/><stop offset="1" stop-color="#091321"/></linearGradient><pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#1f3d51" stroke-width="0.65" opacity="0.45"/></pattern></defs>
+<rect x="1.5" y="1.5" width="1197" height="254" rx="19" fill="url(#bg)" stroke="#31516b" stroke-width="3"/>
+<rect x="2" y="2" width="1196" height="52" rx="18" fill="#182b40"/><path d="M2 53H1198" stroke="#31516b" stroke-width="2"/>
+<circle cx="35" cy="29" r="8" fill="#fb7185"/><circle cx="61" cy="29" r="8" fill="#fbbf24"/><circle cx="87" cy="29" r="8" fill="#34d399"/>
+<text x="119" y="37" font-size="19" font-family="Arial,Helvetica,sans-serif" font-weight="600" fill="#d3e3f3">gino@portfolio:~/terminal</text>
+<rect x="930" y="17" width="225" height="25" rx="12" fill="#142f39" stroke="#347866"/>
+<circle cx="950" cy="30" r="5" fill="#6bf3d4"/><text x="966" y="36" fill="#b6f4e7" font-family="Arial,sans-serif" font-size="16" font-weight="600">GITHUB EDITION</text>
+<rect x="2" y="55" width="1196" height="198" fill="url(#grid)"/>
+<text x="46" y="112" fill="#68ecd1" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700">GINO.OS</text>
+<text x="46" y="145" fill="#e9f3ff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Explore my engineering work.</text>
+<text x="46" y="177" fill="#b4cadc" font-family="Arial, Helvetica, sans-serif" font-size="20">Select any command below. Every card is clickable.</text>
+<text x="46" y="218" fill="#68ecd1" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600">visitor@github:~$ help</text>
+<rect x="275" y="202" width="8" height="19" fill="#68ecd1"/>
+<path d="M865 95h230v115H865" fill="none" stroke="#23445a" stroke-width="2" stroke-dasharray="6 8"/>
+<circle cx="925" cy="137" r="7" fill="#52dbcb"/><circle cx="1050" cy="176" r="7" fill="#938aff"/><path d="M925 137L1050 176L1100 115" fill="none" stroke="#3b7f8f" stroke-width="2"/>
+</svg>
