@@ -7,5 +7,4 @@
   <text x="47" y="39" fill="#EAF5FF" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">ask</text>
   <text x="47" y="65" fill="#BED3E6" font-family="Arial,Helvetica,sans-serif" font-size="17">GitHub Issue-based Q&amp;A · public question submission</text>
   <rect x="720" y="18" width="89" height="22" rx="11" fill="#143C46" stroke="#F4C26C" stroke-opacity="0.5"/><text x="764" y="33" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#F4C26C">Q&amp;A</text>
-  <path d="M789 51 l10 9 10-9" fill="none" stroke="#F4C26C" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

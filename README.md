@@ -1,5 +1,5 @@
 <!-- GINO ODAR / AI SYSTEMS & INTEGRATION ENGINEERING -->
-<!-- GINO.OS uses native GitHub <details> panels, an auto-generated portfolio GIF, animated typing SVG, and Issue/Actions Q&A. -->
+<!-- GINO.OS uses native GitHub <details> panels, an animated ASCII portrait next to a separate static terminal-text image, an auto-generated portfolio GIF, animated typing SVG, and Issue/Actions Q&A. -->
 <!-- Featured projects are regenerated from config/projects.json. -->
 
 <div align="center">
@@ -14,11 +14,19 @@
 
 **GitHub-native engineering terminal** · Select a command to reveal its complete content. Select it again to collapse.
 
-<div align="center">
-  <img src="./assets/gino-os-command-header.svg" width="100%" alt="GINO.OS command interface. Choose a command below to expand its content." />
-</div>
+<!-- GitHub-compatible two-image banner: the ASCII GIF is animated; the terminal text panel is a separate static PNG. -->
+<table align="center">
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <img src="./assets/ascii-thumbs-up.gif" width="100%" alt="Animated cyan ASCII portrait at a PC, looking toward the viewer and giving a thumbs-up" />
+    </td>
+    <td width="66%" align="center" valign="middle">
+      <img src="./assets/gino-os-terminal-text.png" width="100%" alt="Static GINO.OS terminal panel: Explore my engineering work. Select any command below. visitor@github:~$ help" />
+    </td>
+  </tr>
+</table>
 
-<sub>Each command is a native GitHub collapsible panel. No JavaScript is required. Multiple panels can remain open. The `ask` panel contains the link to the public GitHub Issue form.</sub>
+<sub>Click anywhere on a command image to expand or collapse its section. GitHub may still show a small native disclosure triangle. Multiple panels can remain open; the `ask` panel links to a public GitHub Issue form.</sub>
 
 
 
@@ -36,7 +44,7 @@
 
 
 <details id="gino-whoami">
-<summary><img src="./assets/terminal-accordions/whoami.svg" width="100%" alt="Open whoami: Professional introduction" /></summary>
+<summary><img src="./assets/terminal-accordions/whoami.svg" width="94%" align="middle" alt="Open whoami: Professional introduction" /></summary>
 
 ### Professional introduction
 
@@ -49,7 +57,7 @@ My focus is moving toward **applied AI and forward-deployed engineering**: conne
 </details>
 
 <details id="gino-experience">
-<summary><img src="./assets/terminal-accordions/experience.svg" width="100%" alt="Open experience: Backend systems · API integrations · Playwright QA" /></summary>
+<summary><img src="./assets/terminal-accordions/experience.svg" width="94%" align="middle" alt="Open experience: Backend systems · API integrations · Playwright QA" /></summary>
 
 ### Professional engineering experience
 
@@ -66,7 +74,7 @@ Most professional code is held in private repositories. The projects below are *
 </details>
 
 <details id="gino-projects">
-<summary><img src="./assets/terminal-accordions/projects.svg" width="100%" alt="Open projects: Hot-swappable public project gallery" /></summary>
+<summary><img src="./assets/terminal-accordions/projects.svg" width="94%" align="middle" alt="Open projects: Hot-swappable public project gallery" /></summary>
 
 ### Selected public work
 
@@ -106,7 +114,7 @@ Most professional code is held in private repositories. The projects below are *
 </details>
 
 <details id="gino-stack">
-<summary><img src="./assets/terminal-accordions/stack.svg" width="100%" alt="Open stack: Java · Kafka · OpenSearch · observability · CI/CD" /></summary>
+<summary><img src="./assets/terminal-accordions/stack.svg" width="94%" align="middle" alt="Open stack: Java · Kafka · OpenSearch · observability · CI/CD" /></summary>
 
 ### Engineering foundation
 
@@ -130,7 +138,7 @@ Most professional code is held in private repositories. The projects below are *
 </details>
 
 <details id="gino-ai">
-<summary><img src="./assets/terminal-accordions/ai.svg" width="100%" alt="Open ai: MCP · Claude Code · Codex · AI delivery" /></summary>
+<summary><img src="./assets/terminal-accordions/ai.svg" width="94%" align="middle" alt="Open ai: MCP · Claude Code · Codex · AI delivery" /></summary>
 
 ### AI engineering toolkit
 
@@ -163,7 +171,7 @@ I'm particularly interested in roles at the intersection of **AI engineering, pl
 </details>
 
 <details id="gino-architecture">
-<summary><img src="./assets/terminal-accordions/architecture.svg" width="100%" alt="Open architecture: AI systems reference architecture" /></summary>
+<summary><img src="./assets/terminal-accordions/architecture.svg" width="94%" align="middle" alt="Open architecture: AI systems reference architecture" /></summary>
 
 ### Applied AI systems
 
@@ -180,7 +188,7 @@ I'm interested in the **full lifecycle of an AI-enabled application**: understan
 </details>
 
 <details id="gino-contact">
-<summary><img src="./assets/terminal-accordions/contact.svg" width="100%" alt="Open contact: Portfolio · professional links · languages" /></summary>
+<summary><img src="./assets/terminal-accordions/contact.svg" width="94%" align="middle" alt="Open contact: Portfolio · professional links · languages" /></summary>
 
 ### Connect
 
@@ -196,7 +204,7 @@ I'm interested in the **full lifecycle of an AI-enabled application**: understan
 </details>
 
 <details id="gino-ask">
-<summary><img src="./assets/terminal-accordions/ask.svg" width="100%" alt="Open ask: GitHub Issue-based Q&A · public question submission" /></summary>
+<summary><img src="./assets/terminal-accordions/ask.svg" width="94%" align="middle" alt="Open ask: GitHub Issue-based Q&A · public question submission" /></summary>
 
 ### Ask GINO.OS
 
