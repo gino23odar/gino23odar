@@ -24,7 +24,8 @@ BACKGROUND = '#091726'
 PANEL = '#0e2134'
 WHITE = '#eef7ff'
 MUTED = '#aec5d8'
-GREEN = '#3bf74e'  # matches the supplied Readme Typing SVG color
+GREEN = '#3BF74E'  # matches the supplied Readme Typing SVG color
+TERMINAL_TEXT = GREEN  # every letter in the terminal uses the same green
 TEAL = '#43e4cc'
 PURPLE = '#9c9cff'
 BORDER = '#37546b'
@@ -139,24 +140,24 @@ def draw_frame(cmd: str, label: str, body: list[str], progress: float, scene: in
     d.rectangle((2,35,W-3,54),fill='#182d41')
     for x,color in [(24,'#fb7185'),(43,'#ffc970'),(62,'#46d6ad')]:
         d.ellipse((x,22,x+10,32),fill=color)
-    d.text((85,17),'gino@portfolio:~/terminal',font=FONT_TAG,fill=WHITE)
-    d.text((W-189,18),'AUTO-GENERATED',font=FONT_FOOT,fill=TEAL)
+    d.text((85,17),'gino@portfolio:~/terminal',font=FONT_TAG,fill=TERMINAL_TEXT)
+    d.text((W-189,18),'AUTO-GENERATED',font=FONT_FOOT,fill=TERMINAL_TEXT)
 
-    d.text((26,75),'GINO.OS  /  '+label,font=FONT_TITLE,fill=GREEN)
+    d.text((26,75),'GINO.OS  /  '+label,font=FONT_TITLE,fill=TERMINAL_TEXT)
     d.line((26,115,W-26,115),fill='#34566a',width=1)
 
     partial=cmd[:max(0,int(round(len(cmd)*progress)))]
-    d.text((27,126),'visitor@github:~$',font=FONT_CMD,fill=TEAL)
-    d.text((305,126),' '+partial + ('▌' if progress < 1 else ''),font=FONT_CMD,fill=WHITE)
+    d.text((27,126),'visitor@github:~$',font=FONT_CMD,fill=TERMINAL_TEXT)
+    d.text((305,126),' '+partial + ('▌' if progress < 1 else ''),font=FONT_CMD,fill=TERMINAL_TEXT)
     if progress>=0.85:
         displayed=wrapped(d,body,W-65,4)
         for i,line in enumerate(displayed):
-            d.text((29,173+i*28),line,font=FONT_BODY,fill=WHITE if i==0 else MUTED)
+            d.text((29,173+i*28),line,font=FONT_BODY,fill=TERMINAL_TEXT)
     else:
-        d.text((29,180),'loading portfolio context...',font=FONT_BODY,fill='#6e8fa5')
+        d.text((29,180),'loading portfolio context...',font=FONT_BODY,fill=TERMINAL_TEXT)
 
     d.line((25,H-45,W-26,H-45),fill='#29485e',width=1)
-    d.text((28,H-35),'PUBLIC PORTFOLIO DATA  •  NOT LIVE TELEMETRY',font=FONT_FOOT,fill='#9db7c8')
+    d.text((28,H-35),'PUBLIC PORTFOLIO DATA  •  NOT LIVE TELEMETRY',font=FONT_FOOT,fill=TERMINAL_TEXT)
     for i in range(total):
         cx=W-26-(total-1-i)*19
         d.ellipse((cx-4,H-34,cx+4,H-26),fill=GREEN if i==scene else '#3a6473')

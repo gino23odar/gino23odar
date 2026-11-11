@@ -1,4 +1,4 @@
-"""Regression tests for the scheduled dynamic GINO.OS display."""
+"""Regression tests for the event-driven GINO.OS display."""
 import json
 import re
 import unittest
@@ -49,16 +49,23 @@ class TerminalAnimationTests(unittest.TestCase):
                 self.assertIn(slide['fact_id'],facts)
 
     def test_two_non_competing_regeneration_paths(self):
-        scheduled=(ROOT/'.github/workflows/terminal-display.yml').read_text()
+        terminal_workflow=(ROOT/'.github/workflows/terminal-display.yml').read_text()
         featured=(ROOT/'.github/workflows/featured-projects.yml').read_text()
-        self.assertIn("- cron: '17 6 * * *'",scheduled)
-        self.assertIn('group: portfolio-render',scheduled)
+        self.assertNotIn('  schedule:', terminal_workflow)
+        self.assertIn('workflow_dispatch:', terminal_workflow)
+        self.assertIn('group: portfolio-render',terminal_workflow)
         self.assertIn('group: portfolio-render',featured)
         self.assertIn('scripts/generate_terminal.py',featured)
-        self.assertIn('assets/terminal-status.gif',scheduled)
+        self.assertIn('assets/terminal-status.gif',terminal_workflow)
         self.assertIn('config/projects.json',featured)
-        self.assertIn('config/profile_knowledge.json',scheduled)
+        self.assertIn('config/profile_knowledge.json',terminal_workflow)
         self.assertIn('python -m pip install "Pillow>=10,<12"',featured)
+
+    def test_terminal_text_palette(self):
+        source=(ROOT/'scripts/generate_terminal.py').read_text(encoding='utf-8')
+        self.assertIn("TERMINAL_TEXT = GREEN",source)
+        self.assertIn("GREEN = '#3BF74E'",source)
+        self.assertIn('font=FONT_BODY,fill=TERMINAL_TEXT)',source)
 
     def test_public_question_bot_unchanged(self):
         self.assertTrue((ROOT/'.github/workflows/gino-os.yml').is_file())
