@@ -1,5 +1,5 @@
 <!-- GINO ODAR / AI SYSTEMS & INTEGRATION ENGINEERING -->
-<!-- GINO.OS GitHub Edition uses clickable Markdown links, an Issue form, and GitHub Actions; no embedded JS or live text field. -->
+<!-- GINO.OS uses native GitHub <details> panels and a separate Issue/Actions Q&A workflow. -->
 <!-- Featured projects are regenerated from config/projects.json. -->
 
 <div align="center">
@@ -10,7 +10,21 @@
   <a href="https://github.com/gino23odar?tab=repositories"><b>Repositories</b></a>
 </div>
 
-### `whoami`
+## GINO.OS
+
+**GitHub-native engineering terminal** · Select a command to reveal its complete content. Select it again to collapse.
+
+<div align="center">
+  <img src="./assets/gino-os-command-header.svg" width="100%" alt="GINO.OS command interface. Choose a command below to expand its content." />
+</div>
+
+<sub>Each command is a native GitHub collapsible panel. No JavaScript is required. Multiple panels can remain open. The `ask` panel contains the link to the public GitHub Issue form.</sub>
+
+
+<details id="gino-whoami">
+<summary><img src="./assets/terminal-accordions/whoami.svg" width="100%" alt="Open whoami: Professional introduction" /></summary>
+
+### Professional introduction
 
 I'm **Gino**, an **AI Systems & Integration Engineer** based in Lima, Peru, with a foundation in **backend development, API integrations, quality engineering and production troubleshooting**. I work across application layers to understand why systems behave the way they do — from services and data flows to user-facing behavior and automated tests.
 
@@ -18,64 +32,12 @@ My focus is moving toward **applied AI and forward-deployed engineering**: conne
 
 **What I bring:** backend and integration experience, systematic debugging, Playwright-based QA, and an engineering mindset that treats observability, permissions and evaluation as part of the product — not an afterthought.
 
-**Navigation:** [GINO.OS](#ginoos) · [Experience](#professional-engineering-experience) · [Projects](#selected-public-work) · [Engineering stack](#engineering-foundation) · [AI toolkit](#ai-engineering-toolkit) · [Architecture](#applied-ai-systems) · [Contact](#connect)
-
----
-
-## GINO.OS
-
-**GitHub-native engineering terminal** · Click a command to explore; ask custom questions through GitHub Issues.
-
-<div align="center">
-  <img src="./assets/gino-os-command-header.svg" width="100%" alt="GINO.OS terminal header: select a clickable command below" />
-  <br />
-  <a href="#whoami"><img src="./assets/terminal-commands/whoami.svg" width="48%" alt="Whoami — professional introduction" /></a>
-  <a href="#professional-engineering-experience"><img src="./assets/terminal-commands/experience.svg" width="48%" alt="Experience — backend engineering and Playwright QA" /></a>
-  <br />
-  <a href="#selected-public-work"><img src="./assets/terminal-commands/projects.svg" width="48%" alt="Projects — featured public repositories" /></a>
-  <a href="#engineering-foundation"><img src="./assets/terminal-commands/stack.svg" width="48%" alt="Stack — engineering tools" /></a>
-  <br />
-  <a href="#ai-engineering-toolkit"><img src="./assets/terminal-commands/ai.svg" width="48%" alt="AI — MCP, Claude Code and AI tooling" /></a>
-  <a href="#applied-ai-systems"><img src="./assets/terminal-commands/architecture.svg" width="48%" alt="Architecture — reference system diagram" /></a>
-  <br />
-  <a href="#connect"><img src="./assets/terminal-commands/contact.svg" width="48%" alt="Contact — links and professional contact" /></a>
-  <a href="https://github.com/gino23odar/gino23odar/issues/new?template=ask-gino-os.yml"><img src="./assets/terminal-commands/ask.svg" width="48%" alt="Ask — submit a public question through GitHub Issues" /></a>
-</div>
-
-**Want to ask something specific?** Select **`ask`** to open a public GitHub Issue. GINO.OS can reply using verified portfolio information once the Issue workflow is enabled. Questions and answers are public.
-
-[Command reference](./docs/terminal/help.md) · [Browse repositories](https://github.com/gino23odar?tab=repositories)
-
-<details>
-<summary><b>⌁ $ demo</b> — Example questions & verified answers</summary>
-
-**Q:** What experience does Gino have with Playwright?
-
-**A:** Playwright-based UI and end-to-end test automation, staging investigations, regression testing, and debugging issues involving APIs, databases and user interfaces. [Engineering experience](#professional-engineering-experience)
-
-**Q:** Has Gino deployed an enterprise AI agent platform?
-
-**A:** No such deployment is claimed here. The profile documents real backend/integration experience and describes AI orchestration and MCP as current development areas. [AI engineering toolkit](#ai-engineering-toolkit)
-
 </details>
 
-<details>
-<summary><b>⌁ $ how-ask-works</b> — GitHub-native Q&A</summary>
+<details id="gino-experience">
+<summary><img src="./assets/terminal-accordions/experience.svg" width="100%" alt="Open experience: Backend systems · API integrations · Playwright QA" /></summary>
 
-1. Click **Ask GINO.OS**, sign in to GitHub if necessary, and submit a question in the Issue form.
-2. A GitHub Action reads public information from [`config/profile_knowledge.json`](./config/profile_knowledge.json) and the featured entries in [`config/projects.json`](./config/projects.json).
-3. The bot posts its response and relevant links **in your Issue thread**. A deterministic, no-key mode works by default; optional AI phrasing can be enabled later.
-4. Follow up in the same Issue with `/ask your question` (up to three follow-ups per thread).
-
-**Privacy:** Questions and replies are publicly visible on GitHub. Do not submit confidential information. This is not a text-input widget embedded inside the README.
-
-</details>
-
-<sub>The Issue-based bot becomes active once this package is published on the repository's default branch with GitHub Issues and Actions enabled. The header and command cards are static images wrapped in clickable links; the Issue workflow provides the Q&A interaction.</sub>
-
----
-
-## Professional engineering experience
+### Professional engineering experience
 
 My professional work has spanned **backend development, integrations, technical investigation and software quality** across a production software environment:
 
@@ -87,7 +49,12 @@ My professional work has spanned **backend development, integrations, technical 
 
 Most professional code is held in private repositories. The projects below are **separate public work**, not employer source code or demonstrations of proprietary architectures.
 
-## Selected public work
+</details>
+
+<details id="gino-projects">
+<summary><img src="./assets/terminal-accordions/projects.svg" width="100%" alt="Open projects: Hot-swappable public project gallery" /></summary>
+
+### Selected public work
 
 <sub>Cards are generated from [config/projects.json](./config/projects.json). Edit the featured list and run the generator to swap projects or rearrange them.</sub>
 
@@ -122,7 +89,12 @@ Most professional code is held in private repositories. The projects below are *
 
 <!-- FEATURED_PROJECTS:END -->
 
-## Engineering foundation
+</details>
+
+<details id="gino-stack">
+<summary><img src="./assets/terminal-accordions/stack.svg" width="100%" alt="Open stack: Java · Kafka · OpenSearch · observability · CI/CD" /></summary>
+
+### Engineering foundation
 
 <div align="center">
   <img src="./assets/engineering-foundation.svg" width="100%" alt="Engineering pillars: backend systems, integrations, product delivery and reliability" />
@@ -141,7 +113,12 @@ Most professional code is held in private repositories. The projects below are *
   <img src="./assets/engineering-toolkit.svg" width="100%" alt="Engineering toolkit: backend, search, CI/CD, observability, QA and frontend technologies" />
 </div>
 
-## AI engineering toolkit
+</details>
+
+<details id="gino-ai">
+<summary><img src="./assets/terminal-accordions/ai.svg" width="100%" alt="Open ai: MCP · Claude Code · Codex · AI delivery" /></summary>
+
+### AI engineering toolkit
 
 <div align="center">
   <img src="./assets/ai-toolchain.svg" width="100%" alt="AI engineering focus areas: coding agents, Model Context Protocol, local models, agent workflows, evaluation and reliability" />
@@ -161,7 +138,20 @@ My focus is on **applied AI systems**, especially where AI needs to interact wit
 
 <sub>Tools labeled "exploring" or "focus" are areas of active interest and development, **not claims of professional production deployment or certification**.</sub>
 
-## Applied AI systems
+### What I'm building toward
+
+- **GINO.OS GitHub Edition:** Clickable portfolio commands and a public Issue-based Q&A bot backed by verified career/project records. A richer GitHub Pages terminal remains a possible future extension.
+- **Enterprise AI integrations:** Secure connector patterns, MCP interoperability, authorization-aware tools, orchestration and evaluation.
+- **Forward-deployed engineering:** Working directly from a real business problem through integrations, deployment, QA and measurable outcomes.
+
+I'm particularly interested in roles at the intersection of **AI engineering, platform integration and software reliability**.
+
+</details>
+
+<details id="gino-architecture">
+<summary><img src="./assets/terminal-accordions/architecture.svg" width="100%" alt="Open architecture: AI systems reference architecture" /></summary>
+
+### Applied AI systems
 
 <div align="center">
   <img src="./assets/field-engineering-loop.gif" width="100%" alt="Animated delivery loop: discover, integrate, verify, improve" />
@@ -173,17 +163,12 @@ I'm interested in the **full lifecycle of an AI-enabled application**: understan
 
 *Reference architecture for discussion and exploration, not a claim that I've deployed this entire stack in one customer system.*
 
-## What I'm building toward
+</details>
 
-- **GINO.OS GitHub Edition:** Clickable portfolio commands and a public Issue-based Q&A bot backed by verified career/project records. A richer GitHub Pages terminal remains a possible future extension.
-- **Enterprise AI integrations:** Secure connector patterns, MCP interoperability, authorization-aware tools, orchestration and evaluation.
-- **Forward-deployed engineering:** Working directly from a real business problem through integrations, deployment, QA and measurable outcomes.
+<details id="gino-contact">
+<summary><img src="./assets/terminal-accordions/contact.svg" width="100%" alt="Open contact: Portfolio · professional links · languages" /></summary>
 
-I'm particularly interested in roles at the intersection of **AI engineering, platform integration and software reliability**.
-
----
-
-## Connect
+### Connect
 
 <div align="center">
   <b>Have an interesting systems or AI integration problem?</b><br /><br />
@@ -193,3 +178,50 @@ I'm particularly interested in roles at the intersection of **AI engineering, pl
   <br /><br />
   <sub>Lima, Peru &nbsp;·&nbsp; English / German / Spanish</sub>
 </div>
+
+</details>
+
+<details id="gino-ask">
+<summary><img src="./assets/terminal-accordions/ask.svg" width="100%" alt="Open ask: GitHub Issue-based Q&A · public question submission" /></summary>
+
+### Ask GINO.OS
+
+**Ask a question about my professional background or public projects.**
+
+[**Open the GINO.OS question form**](https://github.com/gino23odar/gino23odar/issues/new?template=ask-gino-os.yml)
+
+The form opens a **public GitHub Issue**; the bot replies there using the verified information in [`config/profile_knowledge.json`](./config/profile_knowledge.json) and [`config/projects.json`](./config/projects.json), once GitHub Issues and Actions are enabled. You need a GitHub account to submit a question, and questions and answers are public.
+
+<details>
+<summary><b>⌁ $ demo</b> — Example questions & verified answers</summary>
+
+**Q:** What experience does Gino have with Playwright?
+
+**A:** Playwright-based UI and end-to-end test automation, staging investigations, regression testing, and debugging issues involving APIs, databases and user interfaces. [Engineering experience](#gino-experience)
+
+**Q:** Has Gino deployed an enterprise AI agent platform?
+
+**A:** No such deployment is claimed here. The profile documents real backend/integration experience and describes AI orchestration and MCP as current development areas. [AI engineering toolkit](#gino-ai)
+
+</details>
+
+<details>
+<summary><b>⌁ $ how-ask-works</b> — GitHub-native Q&A</summary>
+
+1. Click **Ask GINO.OS**, sign in to GitHub if necessary, and submit a question in the Issue form.
+2. A GitHub Action reads public information from [`config/profile_knowledge.json`](./config/profile_knowledge.json) and the featured entries in [`config/projects.json`](./config/projects.json).
+3. The bot posts its response and relevant links **in your Issue thread**. A deterministic, no-key mode works by default; optional AI phrasing can be enabled later.
+4. Follow up in the same Issue with `/ask your question` (up to three follow-ups per thread).
+
+**Privacy:** Questions and replies are publicly visible on GitHub. Do not submit confidential information. This is not a text-input widget embedded inside the README.
+
+</details>
+
+[Command reference](./docs/terminal/help.md) · [Browse repositories](https://github.com/gino23odar?tab=repositories)
+
+</details>
+
+---
+
+<sub>**About this interface:** GitHub renders the panels directly. You cannot type into the README; open **ask** to send a question through GitHub Issues. GINO.OS bot replies in the Issue thread after the workflow executes. Only public, owner-reviewed portfolio facts are used, and model-powered phrasing is optional.</sub>
+
