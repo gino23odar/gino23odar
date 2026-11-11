@@ -1,5 +1,5 @@
 <!-- GINO ODAR / AI SYSTEMS & INTEGRATION ENGINEERING -->
-<!-- GINO.OS is a planned interactive portfolio, not a live service. -->
+<!-- GINO.OS GitHub Edition uses clickable Markdown links, an Issue form, and GitHub Actions; no embedded JS or live text field. -->
 <!-- Featured projects are regenerated from config/projects.json. -->
 
 <div align="center">
@@ -24,41 +24,55 @@ My focus is moving toward **applied AI and forward-deployed engineering**: conne
 
 ## GINO.OS
 
-**Interactive portfolio · In development**
+**GitHub-native engineering terminal** · Command links + public Q&A via GitHub Issues
 
 <div align="center">
-  <img src="./assets/gino-os-terminal-preview.svg" width="100%" alt="Static concept for GINO.OS, a future natural-language portfolio terminal; not currently interactive" />
+  <img src="./assets/gino-os-github-edition.svg" width="100%" alt="Illustrated GINO.OS terminal. Actual interaction uses the command links and GitHub Issues form below, not typed input into the image." />
+  <br /><br />
+  <a href="https://github.com/gino23odar/gino23odar/issues/new?template=ask-gino-os.yml"><img alt="Ask GINO.OS through a public GitHub Issue" src="https://img.shields.io/badge/ASK_GINO.OS-OPEN_QUESTION-49DCCB?style=for-the-badge&logo=github&logoColor=0B1424&labelColor=172A3E" /></a>
+  &nbsp;
+  <a href="./docs/terminal/help.md"><img alt="GINO.OS command reference" src="https://img.shields.io/badge/TERMINAL-HELP-9AAEFF?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=172A3E" /></a>
 </div>
 
-**Coming next:** A GitHub Pages-based terminal where visitors can ask questions about my professional experience, inspect project source code and explore engineering decisions. The responses will be grounded in verified, public portfolio data. A future GitHub Issues + Actions interface may also support questions directly from the GitHub ecosystem.
+**`visitor@github:~$ help`** — Select a command. Each link resolves to real profile information. The `ask` command opens a public GitHub Issue, where an Action replies using verified portfolio facts.
 
-*This is a concept preview, not a live prompt input or deployed AI agent.* Until launch, use these GitHub-native shortcuts:
+| Command | Response |
+| :-- | :-- |
+| [`$ whoami`](#whoami) | Professional introduction |
+| [`$ experience`](#professional-engineering-experience) | Backend systems, integrations and **Playwright QA** |
+| [`$ projects`](#selected-public-work) | Current hot-swappable project gallery |
+| [`$ stack`](#engineering-foundation) | Java, Kafka, OpenSearch, ClickHouse, CI/CD, observability and more |
+| [`$ ai`](#ai-engineering-toolkit) | MCP, Claude Code, Codex, LLMs, tooling and areas of development |
+| [`$ architecture`](#applied-ai-systems) | AI systems reference architecture |
+| [`$ contact`](#connect) | Portfolio, LinkedIn and GitHub |
+| **[`$ ask`](https://github.com/gino23odar/gino23odar/issues/new?template=ask-gino-os.yml)** | **Submit your own question; receive a public bot response** |
 
 <details>
-<summary><b>⌁ $ help</b> — Navigate this profile</summary>
+<summary><b>⌁ $ demo</b> — Example questions & verified answers</summary>
 
-- [`whoami` → professional introduction](#whoami)
-- [`experience` → backend, integrations & QA](#professional-engineering-experience)
-- [`projects` → open-source work](#selected-public-work)
-- [`stack` → engineering toolkit](#engineering-foundation)
-- [`ai` → tools & approaches I'm exploring](#ai-engineering-toolkit)
-- [`architecture` → AI systems reference diagram](#applied-ai-systems)
+**Q:** What experience does Gino have with Playwright?
+
+**A:** Playwright-based UI and end-to-end test automation, staging investigations, regression testing, and debugging issues involving APIs, databases and user interfaces. [Engineering experience](#professional-engineering-experience)
+
+**Q:** Has Gino deployed an enterprise AI agent platform?
+
+**A:** No such deployment is claimed here. The profile documents real backend/integration experience and describes AI orchestration and MCP as current development areas. [AI engineering toolkit](#ai-engineering-toolkit)
 
 </details>
 
 <details>
-<summary><b>⌁ $ projects</b> — Explore source code</summary>
+<summary><b>⌁ $ how-ask-works</b> — GitHub-native Q&A</summary>
 
-Browse the [featured projects below](#selected-public-work), or [view all public repositories](https://github.com/gino23odar?tab=repositories). Featured project cards link to actual repositories and can be swapped without changing the layout.
+1. Click **Ask GINO.OS**, sign in to GitHub if necessary, and submit a question in the Issue form.
+2. A GitHub Action reads public information from [`config/profile_knowledge.json`](./config/profile_knowledge.json) and the featured entries in [`config/projects.json`](./config/projects.json).
+3. The bot posts its response and relevant links **in your Issue thread**. A deterministic, no-key mode works by default; optional AI phrasing can be enabled later.
+4. Follow up in the same Issue with `/ask your question` (up to three follow-ups per thread).
 
-</details>
-
-<details>
-<summary><b>⌁ $ experience</b> — Explore professional background</summary>
-
-My experience includes backend services, advertising API integrations, analytics/reporting workflows, QA automation with **Playwright**, regression analysis, database investigation, and debugging with logs and observability tools. [See the full summary](#professional-engineering-experience).
+**Privacy:** Questions and replies are publicly visible on GitHub. Do not submit confidential information. This is not a text-input widget embedded inside the README.
 
 </details>
+
+<sub>The Issue-based bot becomes active once this package is published on the repository's default branch with GitHub Issues and Actions enabled. The illustration above is a static graphic; the links and Issue workflow provide the real interaction.</sub>
 
 ---
 
@@ -162,7 +176,7 @@ I'm interested in the **full lifecycle of an AI-enabled application**: understan
 
 ## What I'm building toward
 
-- **GINO.OS:** An interactive portfolio terminal backed by verified public career and project information; planned for GitHub Pages with a separately hosted AI API.
+- **GINO.OS GitHub Edition:** Clickable portfolio commands and a public Issue-based Q&A bot backed by verified career/project records. A richer GitHub Pages terminal remains a possible future extension.
 - **Enterprise AI integrations:** Secure connector patterns, MCP interoperability, authorization-aware tools, orchestration and evaluation.
 - **Forward-deployed engineering:** Working directly from a real business problem through integrations, deployment, QA and measurable outcomes.
 

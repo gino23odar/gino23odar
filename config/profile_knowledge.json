@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "about": "Public, owner-approved facts only. Never add private employer names, customer details, production credentials, private repositories, or personal information.",
+  "facts": [
+    {
+      "id": "identity",
+      "title": "Professional overview",
+      "keywords": [
+        "whoami",
+        "about",
+        "identity",
+        "location",
+        "background",
+        "languages",
+        "international",
+        "peru",
+        "german",
+        "spanish",
+        "english"
+      ],
+      "text": "Gino Odar is based in Lima, Peru. His professional background spans backend development, API integrations, production troubleshooting, and quality engineering. He speaks English, German, and Spanish. He is working toward applied AI systems and forward-deployed engineering roles, not claiming to have held those exact job titles.",
+      "sources": [
+        {
+          "label": "Profile overview",
+          "url": "https://github.com/gino23odar/gino23odar#whoami"
+        }
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend engineering and APIs",
+      "keywords": [
+        "java",
+        "spring",
+        "springboot",
+        "backend",
+        "microservices",
+        "services",
+        "apis",
+        "integration",
+        "third-party",
+        "reporting",
+        "attribution",
+        "advertising",
+        "kafka",
+        "stack",
+        "skills",
+        "technologies",
+        "tools",
+        "engineering"
+      ],
+      "text": "Gino has worked on Java and Spring Boot services, REST APIs, reporting and attribution workflows, advertising platform integrations, and issues involving service, data, and frontend boundaries. Kafka is part of his engineering toolkit; no specific production throughput or lead-architect ownership is claimed.",
+      "sources": [
+        {
+          "label": "Professional engineering experience",
+          "url": "https://github.com/gino23odar/gino23odar#professional-engineering-experience"
+        }
+      ]
+    },
+    {
+      "id": "qa",
+      "title": "Quality engineering and Playwright",
+      "keywords": [
+        "playwright",
+        "qa",
+        "testing",
+        "test",
+        "automation",
+        "regression",
+        "e2e",
+        "end-to-end",
+        "flaky",
+        "selenium",
+        "junit",
+        "mockito",
+        "quality",
+        "bug"
+      ],
+      "text": "Gino has worked with Playwright for UI and end-to-end automation, regression testing, staging validation, reproduction of defects, and debugging flaky tests. His QA investigations span browser behavior, API responses, database records, and service logic. His toolkit also includes Selenium, JUnit, and Mockito.",
+      "sources": [
+        {
+          "label": "Quality engineering background",
+          "url": "https://github.com/gino23odar/gino23odar#professional-engineering-experience"
+        }
+      ]
+    },
+    {
+      "id": "operations",
+      "title": "Infrastructure, data, CI/CD and observability",
+      "keywords": [
+        "opensearch",
+        "clickhouse",
+        "jenkins",
+        "semaphore",
+        "cloudwatch",
+        "new",
+        "relic",
+        "aws",
+        "docker",
+        "linux",
+        "postgresql",
+        "mysql",
+        "monitoring",
+        "observability",
+        "traces",
+        "infra",
+        "ci",
+        "cd",
+        "stack",
+        "skills",
+        "technologies",
+        "tools",
+        "toolkit",
+        "engineering"
+      ],
+      "text": "His tooling includes OpenSearch, ClickHouse, PostgreSQL, MySQL, Docker, Linux, AWS tooling, Jenkins, Semaphore CI, New Relic, and Amazon CloudWatch. He has used New Relic and CloudWatch during investigations, and worked in delivery environments incorporating CI/CD and data infrastructure. The profile does not claim he designed all these systems.",
+      "sources": [
+        {
+          "label": "Engineering foundation",
+          "url": "https://github.com/gino23odar/gino23odar#engineering-foundation"
+        }
+      ]
+    },
+    {
+      "id": "frontend",
+      "title": "Frontend and mobile stack",
+      "keywords": [
+        "react",
+        "nextjs",
+        "next",
+        "typescript",
+        "javascript",
+        "mobile",
+        "frontend",
+        "ui",
+        "nodejs",
+        "express"
+      ],
+      "text": "Gino has worked with TypeScript, JavaScript, React, Next.js, React Native, Node.js, and Express. Public work includes a full-stack React/TypeScript and Express/PostgreSQL prototype with provider abstractions and mock mode.",
+      "sources": [
+        {
+          "label": "Engineering foundation",
+          "url": "https://github.com/gino23odar/gino23odar#engineering-foundation"
+        },
+        {
+          "label": "Verdant Mythic Vault",
+          "url": "https://github.com/gino23odar/gen-vault"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI development and learning focus",
+      "keywords": [
+        "ai",
+        "llm",
+        "mcp",
+        "model",
+        "claude",
+        "codex",
+        "ollama",
+        "qwen",
+        "rag",
+        "agents",
+        "agentic",
+        "orchestration",
+        "retrieval",
+        "eval",
+        "forward",
+        "fde"
+      ],
+      "text": "Gino has participated in a collaborative LLM + Streamlit hackathon project and experimented with local LLM workflows using Ollama and Qwen. He is exploring Claude Code, OpenAI Codex, Model Context Protocol (MCP), tool calling, agent orchestration, RAG, and evaluations. These topics are areas of development; the profile does not claim extensive production AI deployment experience.",
+      "sources": [
+        {
+          "label": "AI engineering toolkit",
+          "url": "https://github.com/gino23odar/gino23odar#ai-engineering-toolkit"
+        },
+        {
+          "label": "Llama Impact hackathon",
+          "url": "https://github.com/gino23odar/LlamaImpact-hackathon-streamlit"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Academic and research projects",
+      "keywords": [
+        "education",
+        "university",
+        "master",
+        "computer",
+        "science",
+        "research",
+        "simulation",
+        "algorithms",
+        "python",
+        "coursework"
+      ],
+      "text": "Gino has worked on master's-level computer science coursework including a discrete-event simulation comparing queue scheduling strategies and a Python data-mapping assignment with SQLite and Bokeh. His repository documentation includes limitations and reproducible steps. His precise graduation status is not specified here.",
+      "sources": [
+        {
+          "label": "Queue simulation",
+          "url": "https://github.com/gino23odar/queue-management-simulation"
+        },
+        {
+          "label": "Python data mapping",
+          "url": "https://github.com/gino23odar/dlmdspwp01-written-assignment"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Portfolio and contact",
+      "keywords": [
+        "contact",
+        "hire",
+        "connect",
+        "email",
+        "linkedin",
+        "portfolio",
+        "website",
+        "reach",
+        "job"
+      ],
+      "text": "Public professional links: portfolio at https://www.ginoodar.com , LinkedIn at https://www.linkedin.com/in/gino-odar/ , and GitHub at https://github.com/gino23odar . No personal email address is published in this dataset.",
+      "sources": [
+        {
+          "label": "Portfolio",
+          "url": "https://www.ginoodar.com"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/gino-odar/"
+        }
+      ]
+    }
+  ]
+}
