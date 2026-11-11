@@ -1,0 +1,40 @@
+{
+  "slides": [
+    {
+      "command": "whoami",
+      "label": "PROFILE OVERVIEW",
+      "fact_id": "identity"
+    },
+    {
+      "command": "experience",
+      "label": "BACKEND & INTEGRATIONS",
+      "fact_id": "backend"
+    },
+    {
+      "command": "experience",
+      "label": "QUALITY ENGINEERING",
+      "fact_id": "qa"
+    },
+    {
+      "command": "projects",
+      "label": "SELECTED PUBLIC WORK",
+      "type": "projects"
+    },
+    {
+      "command": "stack",
+      "label": "DATA / CI-CD / OBSERVABILITY",
+      "fact_id": "operations"
+    },
+    {
+      "command": "ai",
+      "label": "APPLIED AI DEVELOPMENT",
+      "fact_id": "ai"
+    },
+    {
+      "command": "ask",
+      "label": "GITHUB ISSUE Q&A",
+      "type": "message",
+      "text": "Open the ask command below to submit a public question. GINO.OS replies in the GitHub Issue thread."
+    }
+  ]
+}

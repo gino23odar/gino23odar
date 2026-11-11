@@ -1,5 +1,5 @@
 <!-- GINO ODAR / AI SYSTEMS & INTEGRATION ENGINEERING -->
-<!-- GINO.OS uses native GitHub <details> panels and a separate Issue/Actions Q&A workflow. -->
+<!-- GINO.OS uses native GitHub <details> panels, an auto-generated portfolio GIF, animated typing SVG, and Issue/Actions Q&A. -->
 <!-- Featured projects are regenerated from config/projects.json. -->
 
 <div align="center">
@@ -19,6 +19,20 @@
 </div>
 
 <sub>Each command is a native GitHub collapsible panel. No JavaScript is required. Multiple panels can remain open. The `ask` panel contains the link to the public GitHub Issue form.</sub>
+
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=3BF74E&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=136C29&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1100&amp;color=3BF74E&amp;center=false&amp;vCenter=true&amp;width=990&amp;height=62&amp;repeat=true&amp;lines=Building+reliable+AI+integrations.;Backend+systems%2C+APIs+and+Playwright+QA.;Kafka%2C+OpenSearch+and+observability.;Exploring+MCP%2C+Claude+Code+and+Codex.;Select+a+command+below+to+explore." width="96%" alt="Animated introduction: reliable AI integrations, backend systems, Playwright QA, Kafka, OpenSearch, MCP and coding agents" />
+  </picture>
+  <br />
+  <img src="./assets/terminal-status.gif" width="100%" alt="Automatically rendered GINO.OS portfolio terminal cycling through verified engineering facts and featured projects" />
+</div>
+
+<sub>The typing line is powered by [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg). The terminal animation below is generated from approved profile facts and public project metadata by GitHub Actions. It is not a live session or visitor-specific telemetry. Commands below expand instantly; custom questions use the `ask` Issue form.</sub>
 
 
 <details id="gino-whoami">
