@@ -20,13 +20,14 @@
 
 <details id="gino-whoami">
 <summary><img src="./assets/terminal-accordions/whoami.svg" width="94%" align="middle" alt="Open whoami: Professional introduction" /></summary>
+</br>
 
 I'm **Gino**, an **AI Systems & Integration Engineer** based in Lima, Peru, with a foundation in **backend development, API integrations, quality engineering and production troubleshooting**. I work across application layers to understand why systems behave the way they do — from services and data flows to user-facing behavior and automated tests.
 
 My focus is moving toward **applied AI and forward-deployed engineering**: connecting models to real systems, designing dependable tool integrations, evaluating outcomes and shipping software that solves an actual problem. My public work includes a collaborative LLM hackathon project, a full-stack prototype with pluggable providers, and tested Python engineering projects.
 
 **What I bring:** backend and integration experience, systematic debugging, Playwright-based QA, and an engineering mindset that treats observability, permissions and evaluation as part of the product — not an afterthought.
-
+</br>
 </details>
 
 <details id="gino-experience">
@@ -51,7 +52,7 @@ Most professional code is held in private repositories. The projects below are *
 
 ### Selected public work
 
-<sub>Cards are generated from [config/projects.json](./config/projects.json). Edit the featured list and run the generator to swap projects or rearrange them.</sub>
+<!-- Cards are generated from [config/projects.json](./config/projects.json). Edit the featured list and run the generator to swap projects or rearrange them.--!>
 
 <!-- FEATURED_PROJECTS:START -->
 
@@ -162,8 +163,7 @@ I'm interested in the **full lifecycle of an AI-enabled application**: understan
 
 <details id="gino-contact">
 <summary><img src="./assets/terminal-accordions/contact.svg" width="94%" align="middle" alt="Open contact: Portfolio · professional links · languages" /></summary>
-
-### Connect
+</br>
 
 <div align="center">
   <b>Have an interesting systems or AI integration problem?</b><br /><br />
@@ -173,6 +173,7 @@ I'm interested in the **full lifecycle of an AI-enabled application**: understan
   <br /><br />
   <sub>Lima, Peru &nbsp;·&nbsp; English / German / Spanish</sub>
 </div>
+</br>
 
 </details>
 
@@ -232,7 +233,22 @@ The form opens a **public GitHub Issue**; the bot replies there using the verifi
 ---
 
 <sub>**About this interface:** GitHub renders the panels directly. You cannot type into the README; open **ask** to send a question through GitHub Issues. GINO.OS bot replies in the Issue thread after the workflow executes. Only public, owner-reviewed portfolio facts are used, and model-powered phrasing is optional.</sub> <br></br>
-<a href="https://www.ginoodar.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/gino-odar/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-<a href="https://github.com/gino23odar?tab=repositories"><b>Repositories</b></a>
+
+<div align="center">
+  <a href="https://www.ginoodar.com" title="Portfolio">
+    <img src="./assets/portfolio.svg" width="34" height="34" alt="Portfolio" align="center" />
+    <b>Portfolio</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gino-odar/" title="LinkedIn">
+    <img src="./assets/linkedin.svg" width="34" height="34" alt="LinkedIn" align="center" />
+    <b>LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gino23odar?tab=repositories" title="Repositories">
+    <img src="./assets/repositories.svg" width="34" height="34" alt="Repositories" align="center" />
+    <b>Repositories</b>
+  </a>
+</div>
+
 

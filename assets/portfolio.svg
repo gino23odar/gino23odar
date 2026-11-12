@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#143A64"/>
+      <stop offset="0.46" stop-color="#0A2548"/>
+      <stop offset="1" stop-color="#061227"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58E8F0"/>
+      <stop offset="0.55" stop-color="#19C6E8"/>
+      <stop offset="1" stop-color="#177DF1"/>
+    </linearGradient>
+  </defs>
+  <rect x="7" y="7" width="114" height="114" rx="26" fill="url(#bg)" stroke="#178CB5" stroke-width="1.9"/>
+  <path d="M24 16H102" stroke="#5EDDEF" stroke-opacity="0.4" stroke-width="1.4" stroke-linecap="round"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+  <rect x="23" y="28" width="81" height="72" rx="10" fill="#091F3C" stroke="#F3FAFF" stroke-width="3"/>
+  <path d="M23 45H104" stroke="#AFC5DC" stroke-width="2"/>
+  <circle cx="33" cy="37" r="3" fill="#5DE6ED"/>
+  <circle cx="43" cy="37" r="3" fill="#188AF1"/>
+  <circle cx="53" cy="37" r="3" fill="#F4FAFF"/>
+  <path d="M47 58L39 66L47 74" stroke="#E8F8FF" stroke-width="4" fill="none"/>
+  <path d="M77 58L85 66L77 74" stroke="#E8F8FF" stroke-width="4" fill="none"/>
+  <path d="M69 55L58 78" stroke="url(#accent)" stroke-width="4"/>
+  <path d="M37 89H60" stroke="#5C90B8" stroke-width="3"/>
+  <circle cx="91" cy="93" r="20" fill="#07203A" stroke="#47DDEC" stroke-width="2.8"/>
+  <path d="M71 93H111M91 73C82 81 82 105 91 113M91 73C100 81 100 105 91 113M77 81Q91 87 105 81M77 105Q91 99 105 105" stroke="#EFFBFF" stroke-width="1.7" fill="none"/>
+</g>
+</svg>
