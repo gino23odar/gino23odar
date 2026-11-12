@@ -7,16 +7,20 @@
 
 
 <!-- GitHub-compatible two-image banner: the ASCII GIF is animated; the terminal text panel is a separate static PNG. -->
-<table align="center">
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="./assets/ascii-thumbs-up.gif" width="100%" alt="Animated cyan ASCII portrait at a PC, looking toward the viewer and giving a thumbs-up" />
-    </td>
-    <td width="66%" align="center" valign="middle">
-      <img src="./assets/gino-os-terminal-text.png" width="100%" alt="Static GINO.OS terminal panel: Explore my engineering work. Select any command below. visitor@github:~$ help" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img
+    src="./assets/ascii-thumbs-up.gif"
+    width="32%"
+    alt="Animated ASCII portrait"
+  />
+  <img
+    src="./assets/gino-os-terminal-text.png"
+    width="65%"
+    alt="GINO.OS Terminal"
+  />
+</div>
+
 
 <details id="gino-whoami">
 <summary><img src="./assets/terminal-accordions/whoami.svg" width="94%" align="middle" alt="Open whoami: Professional introduction" /></summary>
