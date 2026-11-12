@@ -7,7 +7,7 @@
 
 
 <!-- GitHub-compatible two-image banner: the ASCII GIF is animated; the terminal text panel is a separate static PNG. -->
-<table align="left">
+<table align="center">
   <tr>
     <td width="34%" align="center" valign="middle">
       <img src="./assets/ascii-thumbs-up.gif" width="100%" alt="Animated cyan ASCII portrait at a PC, looking toward the viewer and giving a thumbs-up" />
@@ -20,21 +20,14 @@
 
 <details id="gino-whoami">
 <summary><img src="./assets/terminal-accordions/whoami.svg" width="94%" align="middle" alt="Open whoami: Professional introduction" /></summary>
-<h3 align="center">Professional introduction</h3>
 
-
-<p align = left>
 I'm **Gino**, an **AI Systems & Integration Engineer** based in Lima, Peru, with a foundation in **backend development, API integrations, quality engineering and production troubleshooting**. I work across application layers to understand why systems behave the way they do — from services and data flows to user-facing behavior and automated tests.
-</p>
-<p align = left>
+
 My focus is moving toward **applied AI and forward-deployed engineering**: connecting models to real systems, designing dependable tool integrations, evaluating outcomes and shipping software that solves an actual problem. My public work includes a collaborative LLM hackathon project, a full-stack prototype with pluggable providers, and tested Python engineering projects.
-</p>
-<p align = left>
+
 **What I bring:** backend and integration experience, systematic debugging, Playwright-based QA, and an engineering mindset that treats observability, permissions and evaluation as part of the product — not an afterthought.
-</p>
 
 </details>
-</br>
 
 <details id="gino-experience">
 <summary><img src="./assets/terminal-accordions/experience.svg" width="94%" align="middle" alt="Open experience: Backend systems · API integrations · Playwright QA" /></summary>
